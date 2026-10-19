@@ -1,0 +1,1201 @@
+﻿ID_Siswa,Jenis_Kelamin,Usia,Jurusan,Nilai_Rata_Rata,Kehadiran_Persen,Pendapatan_Orang_Tua,Dukungan_Orang_Tua,Minat_Belajar,Rencana_Karier,Jarak_Kampus,Lanjut_Kuliah
+S0001,Perempuan,18,AKL,82.2,95.5,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0002,Laki-laki,18,BDP,77.4,86.3,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0003,Perempuan,19,BDP,78.1,91.2,2-4 Juta,Tinggi,Sedang,Wirausaha,Jauh,Tidak
+S0004,Perempuan,18,TBSM,84.2,90.2,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0005,Laki-laki,17,BDP,71.1,68.4,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Dekat,Tidak
+S0006,Perempuan,17,TKJ,78.4,82.2,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0007,Perempuan,18,AKL,75.0,88.6,4-6 Juta,Rendah,Sedang,Wirausaha,Dekat,Tidak
+S0008,Perempuan,18,TKJ,62.9,86.3,2-4 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Ya
+S0009,Laki-laki,18,TKJ,69.3,90.9,<2 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0010,Laki-laki,18,TBSM,92.9,97.5,<2 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Ya
+S0011,Laki-laki,18,BDP,81.7,86.6,<2 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0012,Perempuan,19,TBSM,65.4,81.1,>6 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0013,Perempuan,18,TKJ,63.4,91.4,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Dekat,Tidak
+S0014,Perempuan,18,AKL,76.9,86.6,<2 Juta,Rendah,Sedang,Belum Menentukan,Jauh,Tidak
+S0015,Laki-laki,18,AKL,92.8,87.8,<2 Juta,Sedang,Rendah,Kuliah,Dekat,Tidak
+S0016,Laki-laki,18,RPL,76.2,86.8,4-6 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0017,Perempuan,18,RPL,90.4,100.0,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0018,Laki-laki,18,AKL,81.3,72.2,2-4 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0019,Perempuan,18,RPL,82.5,86.1,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Ya
+S0020,Perempuan,17,TBSM,65.3,89.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0021,Perempuan,17,RPL,86.9,83.1,4-6 Juta,Tinggi,Tinggi,Kerja,Jauh,Ya
+S0022,Laki-laki,18,RPL,74.8,95.7,<2 Juta,Tinggi,Rendah,Kuliah,Dekat,Ya
+S0023,Perempuan,19,BDP,86.2,95.1,<2 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0024,Perempuan,18,RPL,70.3,88.6,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Jauh,Tidak
+S0025,Perempuan,18,TBSM,79.7,87.0,<2 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0026,Laki-laki,19,BDP,81.3,88.2,<2 Juta,Tinggi,Tinggi,Kerja,Jauh,Ya
+S0027,Laki-laki,18,RPL,76.5,88.2,4-6 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0028,Laki-laki,18,BDP,81.8,88.4,2-4 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0029,Laki-laki,19,AKL,75.5,87.6,<2 Juta,Rendah,Rendah,Belum Menentukan,Jauh,Tidak
+S0030,Perempuan,17,BDP,71.8,90.9,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0031,Perempuan,18,BDP,93.3,94.6,4-6 Juta,Rendah,Tinggi,Kerja,Dekat,Ya
+S0032,Perempuan,18,BDP,88.0,79.8,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0033,Laki-laki,18,AKL,70.8,81.1,<2 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0034,Laki-laki,18,TKJ,83.4,75.9,2-4 Juta,Tinggi,Sedang,Wirausaha,Jauh,Ya
+S0035,Laki-laki,18,BDP,70.9,95.5,2-4 Juta,Rendah,Tinggi,Kerja,Sedang,Ya
+S0036,Laki-laki,18,TBSM,66.7,90.9,>6 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0037,Laki-laki,18,AKL,87.8,92.8,2-4 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0038,Laki-laki,18,AKL,61.8,78.3,<2 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0039,Laki-laki,18,TKJ,86.8,100.0,2-4 Juta,Rendah,Tinggi,Kerja,Jauh,Tidak
+S0040,Perempuan,18,BDP,75.6,84.4,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0041,Laki-laki,19,TBSM,76.0,90.3,<2 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0042,Perempuan,18,RPL,81.9,95.4,2-4 Juta,Sedang,Rendah,Kerja,Dekat,Ya
+S0043,Perempuan,18,RPL,83.5,81.6,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0044,Laki-laki,17,AKL,70.1,84.9,4-6 Juta,Tinggi,Rendah,Belum Menentukan,Sedang,Tidak
+S0045,Perempuan,18,AKL,84.8,90.3,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0046,Perempuan,18,AKL,79.1,100.0,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0047,Laki-laki,18,RPL,66.1,91.3,>6 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0048,Laki-laki,18,TKJ,76.4,100.0,>6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0049,Perempuan,19,AKL,91.1,98.0,<2 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Ya
+S0050,Laki-laki,19,AKL,93.9,91.8,2-4 Juta,Rendah,Tinggi,Wirausaha,Jauh,Ya
+S0051,Laki-laki,18,AKL,84.8,81.6,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Tidak
+S0052,Laki-laki,18,BDP,66.7,96.9,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0053,Perempuan,18,AKL,82.7,77.8,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0054,Perempuan,18,BDP,86.1,100.0,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0055,Perempuan,18,AKL,84.9,90.5,>6 Juta,Sedang,Tinggi,Wirausaha,Sedang,Ya
+S0056,Perempuan,19,AKL,85.5,69.1,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Ya
+S0057,Laki-laki,18,AKL,81.5,86.4,4-6 Juta,Rendah,Sedang,Kuliah,Jauh,Ya
+S0058,Perempuan,19,RPL,77.3,93.9,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0059,Laki-laki,18,TKJ,72.2,87.2,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0060,Laki-laki,19,AKL,60.0,94.4,4-6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0061,Perempuan,17,TBSM,81.2,82.6,<2 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0062,Laki-laki,18,BDP,79.8,79.2,<2 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0063,Perempuan,18,RPL,83.3,88.5,2-4 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0064,Perempuan,19,AKL,65.3,89.2,4-6 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0065,Perempuan,18,RPL,84.1,86.4,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0066,Perempuan,19,BDP,97.5,98.2,<2 Juta,Tinggi,Rendah,Kuliah,Sedang,Ya
+S0067,Perempuan,18,BDP,78.7,82.6,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0068,Laki-laki,19,AKL,77.4,91.3,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0069,Laki-laki,18,AKL,80.9,89.5,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0070,Laki-laki,18,TKJ,97.3,77.3,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S0071,Laki-laki,19,TKJ,68.3,79.1,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0072,Laki-laki,18,TBSM,79.9,89.1,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0073,Perempuan,18,BDP,70.4,100.0,2-4 Juta,Tinggi,Rendah,Kerja,Jauh,Ya
+S0074,Laki-laki,18,AKL,72.8,93.3,4-6 Juta,Sedang,Rendah,Belum Menentukan,Sedang,Tidak
+S0075,Laki-laki,18,TKJ,77.5,76.1,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0076,Laki-laki,18,RPL,90.8,65.7,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0077,Laki-laki,18,RPL,95.1,94.5,<2 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0078,Perempuan,18,RPL,82.3,88.3,>6 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0079,Perempuan,19,TKJ,74.4,97.6,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0080,Perempuan,18,TBSM,98.0,82.4,<2 Juta,Rendah,Rendah,Kuliah,Sedang,Tidak
+S0081,Perempuan,18,AKL,73.9,91.6,2-4 Juta,Tinggi,Sedang,Kuliah,Jauh,Ya
+S0082,Laki-laki,18,RPL,72.6,95.3,<2 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0083,Perempuan,18,RPL,61.1,85.6,<2 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0084,Laki-laki,18,TKJ,91.3,85.8,<2 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0085,Laki-laki,19,BDP,87.2,89.2,2-4 Juta,Rendah,Tinggi,Kuliah,Sedang,Ya
+S0086,Laki-laki,19,TKJ,98.0,93.1,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Ya
+S0087,Perempuan,18,BDP,64.8,88.9,2-4 Juta,Sedang,Sedang,Wirausaha,Jauh,Tidak
+S0088,Laki-laki,18,BDP,91.9,96.3,4-6 Juta,Sedang,Tinggi,Kuliah,Jauh,Tidak
+S0089,Laki-laki,18,RPL,78.7,85.5,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0090,Laki-laki,18,AKL,85.7,79.0,>6 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S0091,Laki-laki,18,TBSM,62.3,100.0,4-6 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0092,Perempuan,18,TKJ,91.9,84.5,4-6 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0093,Laki-laki,18,RPL,85.5,84.7,4-6 Juta,Rendah,Sedang,Belum Menentukan,Jauh,Tidak
+S0094,Laki-laki,18,TBSM,77.6,88.5,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0095,Laki-laki,18,TBSM,84.1,89.5,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0096,Perempuan,18,AKL,70.7,86.1,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S0097,Laki-laki,18,AKL,72.5,88.9,<2 Juta,Sedang,Rendah,Kuliah,Jauh,Ya
+S0098,Laki-laki,18,RPL,73.6,88.7,2-4 Juta,Tinggi,Sedang,Wirausaha,Jauh,Tidak
+S0099,Laki-laki,18,BDP,60.4,90.3,<2 Juta,Rendah,Tinggi,Kuliah,Sedang,Tidak
+S0100,Perempuan,18,AKL,86.2,71.3,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0101,Perempuan,18,RPL,89.3,100.0,>6 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0102,Perempuan,18,BDP,71.3,87.9,4-6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0103,Laki-laki,18,TBSM,81.3,93.4,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0104,Perempuan,18,BDP,75.5,78.7,2-4 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Tidak
+S0105,Perempuan,19,TKJ,81.1,85.5,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0106,Perempuan,19,RPL,72.0,84.0,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0107,Laki-laki,18,TBSM,69.6,100.0,2-4 Juta,Rendah,Sedang,Kuliah,Dekat,Ya
+S0108,Laki-laki,18,TBSM,88.0,84.6,2-4 Juta,Rendah,Tinggi,Kerja,Sedang,Ya
+S0109,Laki-laki,17,AKL,77.4,94.7,2-4 Juta,Tinggi,Sedang,Kuliah,Jauh,Tidak
+S0110,Perempuan,19,AKL,97.2,84.1,2-4 Juta,Tinggi,Sedang,Wirausaha,Sedang,Ya
+S0111,Laki-laki,18,TKJ,78.4,85.6,4-6 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0112,Laki-laki,19,TKJ,69.2,87.2,>6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0113,Laki-laki,18,RPL,89.7,98.6,2-4 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Ya
+S0114,Perempuan,17,RPL,84.0,74.8,2-4 Juta,Sedang,Tinggi,Wirausaha,Jauh,Ya
+S0115,Laki-laki,17,RPL,84.9,79.1,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0116,Perempuan,18,BDP,89.3,74.4,2-4 Juta,Sedang,Tinggi,Wirausaha,Sedang,Ya
+S0117,Perempuan,18,RPL,71.8,80.8,>6 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0118,Perempuan,17,RPL,76.8,82.9,4-6 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0119,Laki-laki,18,AKL,76.4,76.9,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0120,Perempuan,19,RPL,65.7,83.5,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0121,Perempuan,18,RPL,75.5,73.9,2-4 Juta,Sedang,Rendah,Belum Menentukan,Sedang,Tidak
+S0122,Perempuan,18,AKL,90.7,81.4,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0123,Laki-laki,17,TKJ,80.3,98.0,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0124,Laki-laki,18,AKL,65.2,92.0,4-6 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0125,Laki-laki,18,TBSM,63.2,90.4,2-4 Juta,Rendah,Rendah,Kerja,Dekat,Tidak
+S0126,Laki-laki,19,RPL,93.8,81.5,<2 Juta,Rendah,Tinggi,Kuliah,Sedang,Ya
+S0127,Laki-laki,18,TBSM,77.1,77.5,4-6 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0128,Laki-laki,18,TBSM,71.8,80.5,4-6 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0129,Laki-laki,18,BDP,75.4,88.7,<2 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0130,Perempuan,18,AKL,64.0,95.5,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0131,Laki-laki,18,AKL,91.5,95.8,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0132,Perempuan,18,AKL,74.3,93.7,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0133,Perempuan,18,BDP,91.0,83.5,<2 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0134,Laki-laki,19,RPL,78.5,89.2,<2 Juta,Rendah,Tinggi,Kerja,Sedang,Tidak
+S0135,Perempuan,19,TBSM,91.6,86.6,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0136,Laki-laki,19,AKL,80.4,87.5,<2 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0137,Perempuan,18,BDP,86.1,100.0,2-4 Juta,Tinggi,Tinggi,Kuliah,Jauh,Ya
+S0138,Laki-laki,18,TKJ,84.8,75.8,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0139,Perempuan,19,RPL,83.9,87.2,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0140,Laki-laki,18,AKL,81.3,98.1,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0141,Laki-laki,18,AKL,75.8,78.0,>6 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0142,Laki-laki,19,TKJ,96.2,84.2,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Ya
+S0143,Perempuan,18,TKJ,69.4,85.0,2-4 Juta,Sedang,Rendah,Kuliah,Dekat,Tidak
+S0144,Perempuan,18,TKJ,78.0,87.3,2-4 Juta,Sedang,Sedang,Wirausaha,Jauh,Tidak
+S0145,Laki-laki,19,AKL,78.1,77.0,<2 Juta,Sedang,Tinggi,Wirausaha,Jauh,Tidak
+S0146,Laki-laki,18,TKJ,81.8,93.5,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0147,Laki-laki,18,TBSM,73.9,94.0,2-4 Juta,Rendah,Sedang,Belum Menentukan,Dekat,Tidak
+S0148,Perempuan,18,RPL,81.0,92.8,2-4 Juta,Tinggi,Sedang,Wirausaha,Jauh,Tidak
+S0149,Laki-laki,18,TKJ,76.4,82.5,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0150,Laki-laki,18,TKJ,63.0,89.6,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0151,Perempuan,18,AKL,78.1,82.3,4-6 Juta,Rendah,Rendah,Wirausaha,Jauh,Tidak
+S0152,Perempuan,19,AKL,67.5,86.5,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0153,Laki-laki,18,AKL,61.5,100.0,4-6 Juta,Tinggi,Tinggi,Kerja,Jauh,Ya
+S0154,Perempuan,18,TBSM,79.3,89.7,2-4 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0155,Laki-laki,19,TKJ,82.6,80.1,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0156,Perempuan,17,BDP,83.0,90.4,<2 Juta,Sedang,Rendah,Belum Menentukan,Jauh,Tidak
+S0157,Laki-laki,18,RPL,83.4,78.9,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0158,Perempuan,18,TKJ,59.6,80.0,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0159,Perempuan,18,TKJ,65.1,81.2,4-6 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0160,Perempuan,18,RPL,96.7,85.7,<2 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0161,Laki-laki,18,AKL,68.1,96.0,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Ya
+S0162,Perempuan,18,BDP,83.8,93.3,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0163,Laki-laki,18,BDP,71.5,92.9,<2 Juta,Rendah,Sedang,Belum Menentukan,Jauh,Ya
+S0164,Laki-laki,17,AKL,78.8,80.8,2-4 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S0165,Perempuan,18,AKL,72.0,84.9,<2 Juta,Sedang,Sedang,Kuliah,Jauh,Tidak
+S0166,Laki-laki,18,TKJ,83.3,91.0,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0167,Perempuan,18,RPL,79.3,84.3,<2 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0168,Perempuan,18,RPL,73.7,86.9,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Ya
+S0169,Laki-laki,18,AKL,68.0,92.3,2-4 Juta,Rendah,Tinggi,Kuliah,Jauh,Ya
+S0170,Perempuan,18,TBSM,80.5,86.4,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0171,Laki-laki,18,RPL,66.5,90.7,2-4 Juta,Tinggi,Tinggi,Kuliah,Jauh,Tidak
+S0172,Laki-laki,19,AKL,82.1,100.0,>6 Juta,Tinggi,Sedang,Wirausaha,Sedang,Ya
+S0173,Laki-laki,18,BDP,98.0,87.7,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0174,Perempuan,19,BDP,90.8,97.8,4-6 Juta,Tinggi,Rendah,Wirausaha,Jauh,Ya
+S0175,Laki-laki,19,AKL,84.8,93.2,<2 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0176,Laki-laki,18,AKL,77.2,78.0,2-4 Juta,Rendah,Rendah,Belum Menentukan,Jauh,Tidak
+S0177,Laki-laki,18,BDP,59.6,80.7,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0178,Perempuan,19,TBSM,65.4,82.7,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0179,Perempuan,18,RPL,90.2,82.6,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0180,Perempuan,18,TBSM,70.5,88.3,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0181,Perempuan,18,RPL,71.4,93.6,2-4 Juta,Tinggi,Rendah,Belum Menentukan,Jauh,Tidak
+S0182,Perempuan,17,BDP,76.4,98.4,2-4 Juta,Tinggi,Sedang,Kuliah,Jauh,Ya
+S0183,Laki-laki,18,RPL,67.9,91.3,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0184,Laki-laki,19,RPL,66.3,85.7,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0185,Perempuan,19,RPL,77.5,73.4,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0186,Perempuan,17,TKJ,69.5,89.5,<2 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0187,Laki-laki,18,TKJ,71.0,89.2,<2 Juta,Sedang,Sedang,Kuliah,Jauh,Ya
+S0188,Laki-laki,18,RPL,70.6,90.4,>6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0189,Perempuan,19,TKJ,83.0,100.0,>6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0190,Laki-laki,17,TKJ,75.8,98.3,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0191,Perempuan,19,BDP,76.3,94.9,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0192,Laki-laki,19,TBSM,83.7,81.8,4-6 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0193,Laki-laki,18,AKL,76.7,85.2,<2 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S0194,Perempuan,17,RPL,75.4,88.3,2-4 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0195,Laki-laki,19,TKJ,82.5,83.2,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0196,Laki-laki,18,TBSM,84.3,92.8,>6 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S0197,Perempuan,18,RPL,76.6,91.7,>6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0198,Perempuan,19,TKJ,78.8,80.8,2-4 Juta,Tinggi,Rendah,Kuliah,Dekat,Ya
+S0199,Laki-laki,18,TBSM,70.6,98.0,<2 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0200,Laki-laki,18,TBSM,69.8,89.8,2-4 Juta,Rendah,Sedang,Kuliah,Jauh,Tidak
+S0201,Perempuan,18,TKJ,85.3,76.0,<2 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0202,Perempuan,17,AKL,82.2,88.6,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0203,Laki-laki,19,TKJ,82.3,91.1,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0204,Laki-laki,18,BDP,80.7,96.3,<2 Juta,Rendah,Tinggi,Kerja,Dekat,Ya
+S0205,Laki-laki,18,RPL,78.4,86.5,4-6 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Tidak
+S0206,Laki-laki,18,RPL,84.6,95.2,2-4 Juta,Tinggi,Rendah,Kerja,Dekat,Tidak
+S0207,Laki-laki,19,AKL,86.9,90.4,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0208,Perempuan,18,RPL,86.7,79.1,<2 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0209,Laki-laki,19,AKL,77.0,78.4,4-6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0210,Laki-laki,18,TKJ,91.2,97.4,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0211,Perempuan,19,TBSM,80.2,98.0,<2 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Tidak
+S0212,Perempuan,19,BDP,84.0,91.4,2-4 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0213,Laki-laki,19,AKL,80.7,100.0,<2 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Tidak
+S0214,Perempuan,19,BDP,80.3,96.9,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Tidak
+S0215,Perempuan,18,TKJ,71.0,94.1,<2 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0216,Perempuan,18,AKL,84.7,82.2,<2 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0217,Laki-laki,18,RPL,98.0,100.0,4-6 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0218,Laki-laki,18,TBSM,74.4,93.0,<2 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Ya
+S0219,Perempuan,19,BDP,78.7,86.1,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0220,Laki-laki,19,TBSM,73.8,84.0,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0221,Laki-laki,18,TBSM,73.4,90.9,<2 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0222,Laki-laki,18,TBSM,92.7,76.5,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0223,Perempuan,18,RPL,71.6,94.2,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0224,Perempuan,18,TBSM,73.5,81.8,2-4 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0225,Laki-laki,18,AKL,62.9,91.8,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0226,Perempuan,18,TKJ,70.8,85.1,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0227,Laki-laki,18,AKL,61.8,87.0,2-4 Juta,Tinggi,Rendah,Belum Menentukan,Jauh,Tidak
+S0228,Perempuan,17,TKJ,84.0,83.3,2-4 Juta,Sedang,Tinggi,Wirausaha,Sedang,Ya
+S0229,Perempuan,18,TKJ,98.0,87.8,>6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0230,Laki-laki,18,TKJ,74.5,100.0,2-4 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0231,Laki-laki,19,RPL,62.2,99.4,4-6 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Ya
+S0232,Laki-laki,18,AKL,86.5,91.7,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0233,Perempuan,17,TBSM,71.1,88.8,>6 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0234,Perempuan,18,AKL,90.3,95.3,>6 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0235,Perempuan,18,AKL,75.3,97.5,>6 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Tidak
+S0236,Perempuan,19,TKJ,72.0,82.8,<2 Juta,Tinggi,Tinggi,Kuliah,Dekat,Tidak
+S0237,Laki-laki,18,TKJ,76.3,88.4,4-6 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Tidak
+S0238,Perempuan,18,RPL,85.2,75.3,4-6 Juta,Sedang,Rendah,Kuliah,Dekat,Ya
+S0239,Laki-laki,19,BDP,75.8,97.4,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Ya
+S0240,Laki-laki,19,RPL,73.3,100.0,<2 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0241,Perempuan,18,BDP,76.1,89.6,>6 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Tidak
+S0242,Perempuan,17,BDP,65.9,73.1,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0243,Laki-laki,18,AKL,81.8,93.6,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0244,Perempuan,17,TBSM,61.0,82.2,2-4 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0245,Perempuan,18,TKJ,73.8,84.0,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0246,Perempuan,18,TBSM,85.2,93.7,4-6 Juta,Sedang,Sedang,Kuliah,Jauh,Ya
+S0247,Perempuan,19,BDP,80.9,90.9,<2 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S0248,Laki-laki,18,BDP,83.6,85.3,4-6 Juta,Tinggi,Rendah,Kuliah,Jauh,Ya
+S0249,Laki-laki,18,AKL,77.4,84.1,4-6 Juta,Tinggi,Rendah,Wirausaha,Sedang,Tidak
+S0250,Laki-laki,18,BDP,89.1,89.9,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0251,Perempuan,19,TBSM,86.8,85.9,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0252,Perempuan,18,TKJ,82.2,80.7,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0253,Laki-laki,19,BDP,86.8,86.5,4-6 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0254,Laki-laki,19,BDP,85.1,91.5,>6 Juta,Rendah,Tinggi,Belum Menentukan,Dekat,Ya
+S0255,Laki-laki,18,TKJ,73.8,87.7,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0256,Perempuan,18,TBSM,65.2,78.4,4-6 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0257,Perempuan,18,TKJ,82.0,96.4,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0258,Laki-laki,18,AKL,83.2,68.5,2-4 Juta,Tinggi,Rendah,Kuliah,Dekat,Ya
+S0259,Laki-laki,19,RPL,88.4,85.7,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0260,Perempuan,18,RPL,69.1,84.3,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0261,Laki-laki,18,BDP,69.4,90.1,2-4 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Tidak
+S0262,Perempuan,18,TKJ,82.4,93.2,<2 Juta,Rendah,Tinggi,Kerja,Jauh,Tidak
+S0263,Laki-laki,18,TKJ,77.3,97.5,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0264,Laki-laki,18,TKJ,60.1,83.7,4-6 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0265,Perempuan,18,AKL,81.6,93.4,<2 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S0266,Laki-laki,18,BDP,60.4,90.5,2-4 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0267,Laki-laki,18,TBSM,69.0,76.2,<2 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Tidak
+S0268,Laki-laki,18,RPL,90.8,100.0,4-6 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S0269,Laki-laki,18,AKL,95.3,78.2,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0270,Laki-laki,18,TKJ,66.5,92.1,2-4 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0271,Laki-laki,19,AKL,74.9,91.9,<2 Juta,Rendah,Sedang,Kuliah,Jauh,Tidak
+S0272,Laki-laki,18,TKJ,78.4,91.1,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0273,Laki-laki,18,TKJ,94.9,85.3,>6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0274,Perempuan,18,AKL,73.3,95.2,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0275,Perempuan,18,AKL,73.5,77.3,2-4 Juta,Rendah,Sedang,Kerja,Jauh,Ya
+S0276,Laki-laki,18,AKL,92.7,88.5,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Ya
+S0277,Laki-laki,18,AKL,74.4,84.8,2-4 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0278,Laki-laki,19,BDP,84.9,83.9,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0279,Perempuan,18,BDP,64.0,92.2,2-4 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0280,Perempuan,18,TKJ,76.4,97.1,<2 Juta,Rendah,Tinggi,Wirausaha,Sedang,Tidak
+S0281,Laki-laki,18,BDP,62.2,86.4,4-6 Juta,Sedang,Sedang,Wirausaha,Dekat,Tidak
+S0282,Laki-laki,17,TBSM,68.0,94.9,4-6 Juta,Tinggi,Rendah,Belum Menentukan,Sedang,Tidak
+S0283,Laki-laki,18,RPL,86.0,89.4,>6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0284,Laki-laki,18,AKL,77.5,82.3,4-6 Juta,Sedang,Rendah,Wirausaha,Sedang,Tidak
+S0285,Perempuan,18,TKJ,75.0,87.1,2-4 Juta,Tinggi,Tinggi,Kuliah,Dekat,Ya
+S0286,Laki-laki,17,BDP,70.9,86.8,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0287,Laki-laki,19,RPL,75.9,83.8,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0288,Laki-laki,18,BDP,80.9,92.2,>6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Ya
+S0289,Perempuan,19,TKJ,87.3,90.8,4-6 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S0290,Laki-laki,18,AKL,55.0,77.1,2-4 Juta,Rendah,Tinggi,Kuliah,Dekat,Tidak
+S0291,Perempuan,17,TBSM,70.1,76.6,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0292,Laki-laki,19,TKJ,79.5,92.2,4-6 Juta,Tinggi,Tinggi,Kerja,Dekat,Ya
+S0293,Perempuan,18,TBSM,77.1,82.9,>6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0294,Laki-laki,18,TBSM,81.8,91.3,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0295,Perempuan,18,TBSM,80.5,94.9,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S0296,Perempuan,18,RPL,75.1,79.5,<2 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0297,Perempuan,19,BDP,73.0,78.4,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0298,Perempuan,18,RPL,75.7,100.0,2-4 Juta,Sedang,Sedang,Wirausaha,Jauh,Ya
+S0299,Perempuan,18,TKJ,88.9,91.6,>6 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0300,Perempuan,18,TBSM,71.0,85.9,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0301,Perempuan,18,BDP,77.4,82.0,2-4 Juta,Tinggi,Rendah,Kerja,Dekat,Tidak
+S0302,Laki-laki,19,AKL,79.7,85.2,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0303,Perempuan,18,TKJ,92.8,80.1,2-4 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0304,Laki-laki,18,BDP,75.1,95.6,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Ya
+S0305,Perempuan,19,BDP,87.1,83.2,<2 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0306,Laki-laki,18,TKJ,89.7,97.2,4-6 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0307,Laki-laki,18,TBSM,77.4,86.0,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S0308,Perempuan,18,RPL,76.0,81.2,2-4 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S0309,Laki-laki,18,RPL,74.9,85.8,<2 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S0310,Laki-laki,18,AKL,75.6,69.3,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0311,Laki-laki,18,TBSM,86.1,88.1,4-6 Juta,Tinggi,Rendah,Kuliah,Jauh,Tidak
+S0312,Laki-laki,18,TKJ,80.2,87.7,4-6 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0313,Laki-laki,18,TKJ,80.2,95.2,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0314,Laki-laki,18,RPL,67.3,74.9,>6 Juta,Rendah,Sedang,Belum Menentukan,Jauh,Tidak
+S0315,Laki-laki,19,TBSM,68.8,97.7,4-6 Juta,Sedang,Tinggi,Kerja,Jauh,Ya
+S0316,Laki-laki,18,RPL,98.0,95.2,<2 Juta,Rendah,Sedang,Kuliah,Sedang,Ya
+S0317,Laki-laki,18,AKL,76.3,98.4,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0318,Perempuan,19,TBSM,70.6,88.6,<2 Juta,Tinggi,Sedang,Wirausaha,Sedang,Ya
+S0319,Laki-laki,18,RPL,91.6,96.6,4-6 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0320,Perempuan,18,AKL,80.7,78.0,<2 Juta,Rendah,Tinggi,Kerja,Jauh,Ya
+S0321,Perempuan,18,AKL,83.5,94.3,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0322,Laki-laki,18,BDP,76.7,83.2,4-6 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0323,Laki-laki,19,TKJ,75.0,76.6,4-6 Juta,Tinggi,Rendah,Kerja,Dekat,Tidak
+S0324,Perempuan,18,TKJ,76.4,80.6,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0325,Perempuan,18,RPL,64.9,89.0,4-6 Juta,Tinggi,Sedang,Kuliah,Jauh,Tidak
+S0326,Perempuan,18,BDP,77.2,82.8,<2 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0327,Perempuan,18,BDP,80.8,91.8,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0328,Perempuan,18,RPL,95.6,75.4,<2 Juta,Rendah,Sedang,Belum Menentukan,Jauh,Tidak
+S0329,Perempuan,18,TKJ,78.8,73.0,<2 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0330,Laki-laki,18,TBSM,55.8,99.3,>6 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0331,Perempuan,18,RPL,77.1,95.8,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0332,Laki-laki,18,TKJ,98.0,81.1,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0333,Perempuan,18,AKL,86.2,89.0,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Ya
+S0334,Perempuan,18,TKJ,70.3,96.6,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0335,Laki-laki,17,TKJ,83.6,92.1,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0336,Perempuan,18,TKJ,71.0,90.1,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0337,Laki-laki,18,RPL,65.1,97.2,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Tidak
+S0338,Perempuan,18,AKL,74.7,83.5,4-6 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0339,Laki-laki,19,BDP,78.9,89.2,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0340,Perempuan,18,AKL,60.2,88.9,2-4 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0341,Laki-laki,19,RPL,67.1,87.0,4-6 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0342,Perempuan,18,BDP,78.1,86.1,<2 Juta,Tinggi,Rendah,Wirausaha,Sedang,Tidak
+S0343,Perempuan,18,RPL,74.1,89.5,<2 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S0344,Perempuan,18,BDP,81.8,89.3,<2 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0345,Perempuan,18,TKJ,66.5,81.1,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0346,Perempuan,18,BDP,84.8,95.0,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0347,Perempuan,18,RPL,66.8,81.7,4-6 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0348,Laki-laki,18,RPL,93.6,87.4,>6 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0349,Perempuan,18,AKL,61.7,86.8,<2 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0350,Laki-laki,18,RPL,67.6,91.7,2-4 Juta,Sedang,Tinggi,Kerja,Jauh,Ya
+S0351,Perempuan,18,RPL,82.0,73.1,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Ya
+S0352,Laki-laki,18,BDP,93.8,95.7,<2 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Tidak
+S0353,Perempuan,18,BDP,81.0,83.9,4-6 Juta,Tinggi,Tinggi,Kuliah,Jauh,Ya
+S0354,Perempuan,18,RPL,83.3,98.1,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0355,Laki-laki,18,TBSM,78.2,85.4,>6 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0356,Perempuan,18,BDP,68.2,88.6,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0357,Perempuan,19,TBSM,73.3,100.0,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0358,Perempuan,18,BDP,66.5,86.9,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S0359,Laki-laki,18,BDP,65.9,98.3,<2 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S0360,Perempuan,19,AKL,81.8,89.3,4-6 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0361,Perempuan,19,AKL,67.3,92.1,4-6 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Tidak
+S0362,Laki-laki,18,TBSM,81.0,89.5,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0363,Laki-laki,19,RPL,65.6,95.4,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0364,Laki-laki,19,TKJ,80.8,83.9,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0365,Perempuan,18,RPL,73.4,81.6,4-6 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0366,Laki-laki,18,TBSM,91.4,84.2,<2 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0367,Perempuan,18,TKJ,81.1,89.7,<2 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S0368,Perempuan,17,BDP,89.7,87.3,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0369,Laki-laki,18,BDP,70.8,94.3,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0370,Perempuan,18,TBSM,78.5,98.8,2-4 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Tidak
+S0371,Perempuan,18,RPL,68.7,81.7,<2 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S0372,Laki-laki,18,BDP,74.1,83.5,2-4 Juta,Sedang,Rendah,Kuliah,Dekat,Tidak
+S0373,Laki-laki,18,TBSM,75.5,78.2,2-4 Juta,Tinggi,Sedang,Wirausaha,Jauh,Tidak
+S0374,Laki-laki,19,RPL,71.1,100.0,<2 Juta,Tinggi,Rendah,Wirausaha,Dekat,Tidak
+S0375,Laki-laki,18,BDP,66.5,91.3,>6 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0376,Laki-laki,18,TKJ,64.6,92.6,2-4 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0377,Perempuan,18,AKL,55.8,78.9,2-4 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Tidak
+S0378,Laki-laki,19,AKL,68.0,89.0,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0379,Laki-laki,19,TKJ,84.0,92.8,2-4 Juta,Tinggi,Tinggi,Kuliah,Jauh,Ya
+S0380,Perempuan,19,RPL,62.8,87.1,4-6 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0381,Perempuan,19,RPL,65.0,97.1,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Tidak
+S0382,Perempuan,18,RPL,95.0,100.0,2-4 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0383,Perempuan,18,AKL,72.0,81.9,>6 Juta,Tinggi,Rendah,Kuliah,Dekat,Tidak
+S0384,Laki-laki,18,TKJ,81.0,81.3,4-6 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0385,Laki-laki,18,RPL,84.1,82.4,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Tidak
+S0386,Perempuan,19,BDP,84.3,100.0,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0387,Perempuan,18,BDP,63.5,96.8,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0388,Perempuan,18,AKL,75.8,88.0,4-6 Juta,Rendah,Tinggi,Kuliah,Dekat,Ya
+S0389,Laki-laki,18,TBSM,62.6,89.3,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0390,Perempuan,18,TKJ,98.0,82.9,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Ya
+S0391,Perempuan,18,BDP,62.8,95.7,4-6 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Tidak
+S0392,Laki-laki,17,RPL,68.0,86.2,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0393,Perempuan,19,BDP,68.1,87.0,<2 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0394,Perempuan,18,TBSM,63.8,93.6,2-4 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0395,Laki-laki,19,BDP,90.8,87.6,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0396,Laki-laki,18,AKL,98.0,87.2,2-4 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Ya
+S0397,Perempuan,18,AKL,73.5,89.1,4-6 Juta,Tinggi,Rendah,Kerja,Dekat,Tidak
+S0398,Laki-laki,18,TKJ,65.5,95.0,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Ya
+S0399,Laki-laki,19,BDP,56.7,100.0,4-6 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0400,Laki-laki,18,BDP,75.7,93.4,2-4 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0401,Laki-laki,19,TBSM,75.0,95.0,4-6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Ya
+S0402,Perempuan,18,AKL,71.8,87.5,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0403,Perempuan,18,RPL,80.1,83.7,4-6 Juta,Tinggi,Sedang,Kuliah,Jauh,Ya
+S0404,Laki-laki,19,AKL,81.8,93.9,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S0405,Perempuan,18,RPL,81.1,90.3,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0406,Perempuan,18,TKJ,75.0,78.3,2-4 Juta,Rendah,Rendah,Kuliah,Dekat,Ya
+S0407,Laki-laki,19,TKJ,67.5,86.5,4-6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Ya
+S0408,Perempuan,18,BDP,84.3,88.4,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0409,Laki-laki,18,RPL,78.1,85.2,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Ya
+S0410,Perempuan,18,RPL,86.4,100.0,>6 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0411,Perempuan,18,RPL,85.5,92.6,4-6 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0412,Perempuan,18,TBSM,64.5,99.3,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0413,Laki-laki,18,BDP,64.4,91.0,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Ya
+S0414,Perempuan,18,RPL,70.8,89.6,>6 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0415,Laki-laki,19,RPL,68.0,82.0,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0416,Laki-laki,18,AKL,85.2,89.1,<2 Juta,Sedang,Rendah,Kerja,Dekat,Ya
+S0417,Laki-laki,17,TKJ,81.3,89.1,<2 Juta,Sedang,Sedang,Wirausaha,Sedang,Ya
+S0418,Perempuan,18,AKL,88.4,78.7,4-6 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0419,Laki-laki,19,TKJ,81.8,85.0,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0420,Perempuan,17,TBSM,80.0,86.6,<2 Juta,Tinggi,Rendah,Wirausaha,Sedang,Ya
+S0421,Perempuan,18,TKJ,89.4,92.1,2-4 Juta,Tinggi,Sedang,Wirausaha,Sedang,Ya
+S0422,Laki-laki,18,BDP,82.5,92.5,4-6 Juta,Tinggi,Tinggi,Kuliah,Dekat,Tidak
+S0423,Laki-laki,19,RPL,78.6,84.6,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0424,Laki-laki,18,TBSM,92.1,92.5,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0425,Perempuan,18,TBSM,79.1,87.6,4-6 Juta,Tinggi,Rendah,Belum Menentukan,Dekat,Ya
+S0426,Perempuan,18,BDP,75.1,67.5,>6 Juta,Rendah,Sedang,Kuliah,Jauh,Tidak
+S0427,Laki-laki,18,TKJ,70.0,85.4,4-6 Juta,Tinggi,Rendah,Belum Menentukan,Sedang,Tidak
+S0428,Perempuan,18,RPL,84.7,97.1,<2 Juta,Sedang,Rendah,Wirausaha,Jauh,Tidak
+S0429,Laki-laki,18,BDP,89.8,76.4,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Ya
+S0430,Perempuan,18,BDP,77.5,89.8,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0431,Perempuan,18,RPL,90.4,100.0,>6 Juta,Sedang,Rendah,Kuliah,Dekat,Ya
+S0432,Perempuan,19,TKJ,59.3,83.3,<2 Juta,Rendah,Tinggi,Kuliah,Jauh,Tidak
+S0433,Perempuan,18,TKJ,77.5,89.0,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0434,Perempuan,18,BDP,77.6,79.2,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0435,Laki-laki,19,BDP,71.1,100.0,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0436,Laki-laki,18,AKL,98.0,88.4,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0437,Laki-laki,18,AKL,77.4,89.3,<2 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S0438,Laki-laki,19,TKJ,74.1,99.2,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0439,Perempuan,18,TKJ,78.2,94.0,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Tidak
+S0440,Perempuan,18,RPL,59.0,82.4,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0441,Perempuan,18,BDP,70.8,84.1,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0442,Laki-laki,18,TKJ,87.3,92.7,>6 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Ya
+S0443,Perempuan,18,TKJ,72.0,84.3,2-4 Juta,Sedang,Tinggi,Wirausaha,Jauh,Tidak
+S0444,Laki-laki,18,TKJ,70.1,73.1,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Tidak
+S0445,Laki-laki,18,RPL,90.4,88.6,4-6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Ya
+S0446,Perempuan,18,AKL,90.7,77.9,4-6 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S0447,Perempuan,18,RPL,82.9,100.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0448,Perempuan,18,RPL,73.7,90.3,>6 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0449,Laki-laki,19,BDP,75.7,82.2,<2 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Tidak
+S0450,Perempuan,19,TKJ,70.4,83.8,2-4 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0451,Laki-laki,18,TKJ,68.5,74.8,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0452,Perempuan,18,TKJ,68.1,80.8,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0453,Perempuan,18,BDP,72.1,96.6,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0454,Laki-laki,18,TKJ,68.2,100.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0455,Laki-laki,19,BDP,63.1,94.4,4-6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0456,Laki-laki,18,TBSM,80.1,88.3,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0457,Perempuan,18,AKL,80.2,85.8,2-4 Juta,Rendah,Sedang,Kuliah,Dekat,Tidak
+S0458,Laki-laki,19,TKJ,94.2,81.8,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0459,Perempuan,18,BDP,71.7,100.0,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0460,Perempuan,17,TKJ,80.8,87.6,<2 Juta,Tinggi,Tinggi,Kuliah,Sedang,Tidak
+S0461,Perempuan,18,TKJ,81.0,100.0,2-4 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0462,Laki-laki,18,AKL,75.6,99.5,>6 Juta,Rendah,Sedang,Kerja,Sedang,Ya
+S0463,Perempuan,18,TKJ,85.1,75.9,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0464,Laki-laki,18,RPL,85.4,84.0,<2 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0465,Perempuan,19,TKJ,81.1,84.0,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0466,Perempuan,19,RPL,75.6,88.4,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0467,Perempuan,19,TKJ,74.6,88.5,>6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0468,Perempuan,18,AKL,65.0,100.0,2-4 Juta,Rendah,Tinggi,Kerja,Sedang,Tidak
+S0469,Laki-laki,17,TBSM,70.3,80.9,<2 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0470,Laki-laki,19,RPL,72.1,90.7,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0471,Laki-laki,18,AKL,67.3,93.6,<2 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0472,Laki-laki,18,TKJ,82.2,89.0,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0473,Laki-laki,18,RPL,89.4,89.8,>6 Juta,Sedang,Sedang,Kerja,Jauh,Ya
+S0474,Laki-laki,18,TKJ,69.4,81.2,4-6 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0475,Laki-laki,18,RPL,80.7,89.8,<2 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S0476,Laki-laki,19,RPL,68.2,92.8,2-4 Juta,Tinggi,Tinggi,Kuliah,Dekat,Ya
+S0477,Laki-laki,18,TKJ,75.1,91.5,<2 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0478,Perempuan,18,TKJ,71.4,93.3,<2 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S0479,Perempuan,19,AKL,83.7,99.6,2-4 Juta,Sedang,Rendah,Wirausaha,Sedang,Tidak
+S0480,Laki-laki,18,RPL,71.6,96.0,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0481,Laki-laki,18,RPL,87.6,89.5,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0482,Laki-laki,19,RPL,75.7,80.2,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0483,Perempuan,18,AKL,71.8,84.5,<2 Juta,Sedang,Rendah,Belum Menentukan,Dekat,Tidak
+S0484,Laki-laki,18,TKJ,66.1,87.4,>6 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0485,Laki-laki,18,AKL,80.4,90.9,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Ya
+S0486,Laki-laki,18,RPL,86.5,85.4,<2 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S0487,Laki-laki,18,RPL,80.6,82.0,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0488,Laki-laki,18,TBSM,98.0,80.1,<2 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0489,Perempuan,18,RPL,91.6,76.6,2-4 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0490,Perempuan,18,RPL,75.1,87.2,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0491,Perempuan,18,RPL,75.0,78.0,<2 Juta,Tinggi,Rendah,Kuliah,Jauh,Tidak
+S0492,Perempuan,19,TBSM,82.5,81.5,4-6 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0493,Perempuan,18,AKL,70.0,86.0,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0494,Laki-laki,18,AKL,89.1,79.0,4-6 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0495,Perempuan,18,TBSM,81.4,91.8,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0496,Perempuan,18,RPL,80.4,94.6,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0497,Laki-laki,18,TBSM,84.5,84.9,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0498,Perempuan,18,RPL,94.4,85.7,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0499,Laki-laki,19,AKL,79.6,93.0,<2 Juta,Rendah,Sedang,Wirausaha,Jauh,Tidak
+S0500,Laki-laki,18,TKJ,76.9,83.6,4-6 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0501,Perempuan,19,TKJ,92.3,83.1,<2 Juta,Sedang,Sedang,Wirausaha,Dekat,Ya
+S0502,Perempuan,19,TBSM,87.2,98.0,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Ya
+S0503,Perempuan,18,RPL,75.0,95.6,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0504,Laki-laki,18,TBSM,78.0,93.5,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0505,Perempuan,18,TKJ,79.9,95.9,>6 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0506,Perempuan,19,AKL,81.4,74.2,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0507,Laki-laki,18,TBSM,65.1,99.2,4-6 Juta,Rendah,Rendah,Belum Menentukan,Jauh,Tidak
+S0508,Perempuan,18,RPL,63.3,91.9,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Ya
+S0509,Laki-laki,19,TBSM,69.6,96.6,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0510,Laki-laki,18,AKL,68.8,91.9,2-4 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0511,Laki-laki,18,BDP,71.9,89.4,4-6 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0512,Perempuan,18,RPL,84.0,86.9,4-6 Juta,Rendah,Tinggi,Kuliah,Dekat,Ya
+S0513,Laki-laki,19,AKL,76.4,91.8,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0514,Laki-laki,19,BDP,79.9,86.7,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Dekat,Ya
+S0515,Laki-laki,18,TKJ,66.4,95.5,2-4 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0516,Laki-laki,18,RPL,73.6,77.1,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0517,Laki-laki,18,TKJ,83.6,84.9,2-4 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0518,Perempuan,18,TBSM,83.7,100.0,2-4 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0519,Laki-laki,18,RPL,71.1,84.3,4-6 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Ya
+S0520,Perempuan,19,BDP,79.5,87.2,>6 Juta,Rendah,Tinggi,Kerja,Sedang,Ya
+S0521,Perempuan,17,TBSM,98.0,82.4,>6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0522,Laki-laki,18,RPL,77.8,91.5,4-6 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0523,Laki-laki,18,RPL,71.4,83.5,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Tidak
+S0524,Perempuan,18,BDP,76.3,87.6,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0525,Laki-laki,18,RPL,78.9,95.4,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0526,Laki-laki,17,AKL,76.6,83.8,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0527,Perempuan,18,BDP,77.7,94.9,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0528,Perempuan,19,AKL,64.3,95.2,<2 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0529,Perempuan,17,TKJ,68.9,96.9,>6 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0530,Laki-laki,18,BDP,76.6,90.1,4-6 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0531,Perempuan,19,AKL,76.4,100.0,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0532,Perempuan,17,RPL,72.6,96.9,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0533,Laki-laki,18,AKL,76.3,91.4,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0534,Perempuan,18,TBSM,78.6,82.4,2-4 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0535,Laki-laki,19,AKL,86.4,88.3,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0536,Laki-laki,18,AKL,77.1,99.7,>6 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0537,Perempuan,19,TKJ,81.8,100.0,2-4 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Tidak
+S0538,Laki-laki,18,RPL,72.9,100.0,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Ya
+S0539,Laki-laki,18,TKJ,83.4,94.9,<2 Juta,Tinggi,Sedang,Wirausaha,Sedang,Tidak
+S0540,Perempuan,18,RPL,81.6,79.6,<2 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0541,Perempuan,18,TBSM,86.2,92.7,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0542,Perempuan,18,RPL,84.8,79.7,<2 Juta,Rendah,Tinggi,Kuliah,Jauh,Ya
+S0543,Perempuan,17,BDP,83.6,77.8,<2 Juta,Tinggi,Sedang,Wirausaha,Sedang,Ya
+S0544,Perempuan,19,RPL,77.1,90.8,<2 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0545,Laki-laki,18,TKJ,80.3,92.9,<2 Juta,Sedang,Rendah,Kuliah,Dekat,Ya
+S0546,Laki-laki,18,TKJ,88.1,95.8,4-6 Juta,Sedang,Rendah,Wirausaha,Sedang,Ya
+S0547,Laki-laki,18,TKJ,71.8,92.7,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S0548,Laki-laki,18,BDP,72.0,93.0,4-6 Juta,Tinggi,Rendah,Kuliah,Sedang,Tidak
+S0549,Perempuan,18,TBSM,79.7,81.6,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0550,Laki-laki,18,TBSM,81.9,88.2,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0551,Laki-laki,18,RPL,70.2,77.7,<2 Juta,Rendah,Rendah,Kerja,Dekat,Tidak
+S0552,Laki-laki,18,BDP,77.3,74.0,4-6 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0553,Laki-laki,19,RPL,77.1,94.6,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0554,Perempuan,19,TBSM,57.0,83.4,2-4 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0555,Laki-laki,18,AKL,75.9,95.5,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0556,Laki-laki,18,TKJ,76.5,97.3,>6 Juta,Sedang,Tinggi,Wirausaha,Jauh,Tidak
+S0557,Laki-laki,18,RPL,76.5,84.4,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0558,Laki-laki,19,RPL,91.5,93.4,2-4 Juta,Sedang,Sedang,Wirausaha,Jauh,Tidak
+S0559,Perempuan,19,TKJ,66.4,84.0,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0560,Laki-laki,19,TBSM,70.2,75.2,<2 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0561,Laki-laki,18,BDP,55.0,89.9,<2 Juta,Sedang,Tinggi,Wirausaha,Jauh,Tidak
+S0562,Laki-laki,18,TBSM,73.4,85.5,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0563,Perempuan,18,RPL,74.2,85.7,<2 Juta,Sedang,Tinggi,Wirausaha,Dekat,Tidak
+S0564,Perempuan,18,AKL,73.2,100.0,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S0565,Perempuan,18,TKJ,88.5,77.6,2-4 Juta,Sedang,Sedang,Wirausaha,Dekat,Ya
+S0566,Perempuan,17,AKL,86.2,91.9,<2 Juta,Tinggi,Tinggi,Wirausaha,Dekat,Ya
+S0567,Perempuan,19,TKJ,78.7,81.5,>6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0568,Laki-laki,17,TKJ,74.5,95.8,2-4 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Ya
+S0569,Laki-laki,18,AKL,87.7,91.2,2-4 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S0570,Perempuan,19,RPL,77.8,91.8,<2 Juta,Tinggi,Rendah,Kerja,Dekat,Tidak
+S0571,Laki-laki,18,TKJ,70.2,81.9,4-6 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0572,Perempuan,18,AKL,61.7,83.3,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0573,Laki-laki,18,RPL,73.8,96.0,<2 Juta,Sedang,Tinggi,Wirausaha,Dekat,Tidak
+S0574,Perempuan,19,TBSM,85.2,100.0,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0575,Perempuan,18,AKL,98.0,92.6,2-4 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0576,Laki-laki,18,BDP,78.6,82.3,4-6 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0577,Perempuan,18,AKL,70.7,91.5,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0578,Perempuan,18,BDP,66.7,100.0,<2 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S0579,Perempuan,18,BDP,83.2,89.8,4-6 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0580,Laki-laki,18,TBSM,61.2,100.0,4-6 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0581,Laki-laki,18,AKL,83.2,83.4,2-4 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0582,Perempuan,18,TKJ,85.8,88.7,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0583,Laki-laki,18,RPL,82.1,93.6,4-6 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0584,Laki-laki,18,AKL,75.9,92.0,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0585,Perempuan,18,RPL,83.4,83.3,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0586,Perempuan,19,TKJ,79.6,82.9,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0587,Laki-laki,18,RPL,70.6,96.4,<2 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0588,Laki-laki,18,AKL,95.6,97.9,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0589,Laki-laki,19,RPL,74.7,100.0,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0590,Laki-laki,17,AKL,85.4,100.0,>6 Juta,Rendah,Tinggi,Kerja,Sedang,Ya
+S0591,Perempuan,18,BDP,55.0,90.0,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0592,Laki-laki,18,BDP,90.1,86.7,2-4 Juta,Sedang,Rendah,Wirausaha,Jauh,Tidak
+S0593,Laki-laki,18,TKJ,92.0,99.1,>6 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Ya
+S0594,Perempuan,18,AKL,78.3,94.3,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Tidak
+S0595,Laki-laki,19,AKL,83.3,81.6,2-4 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0596,Laki-laki,18,AKL,83.3,81.2,2-4 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S0597,Perempuan,18,AKL,71.9,92.7,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0598,Perempuan,18,RPL,83.2,87.7,2-4 Juta,Rendah,Sedang,Belum Menentukan,Dekat,Tidak
+S0599,Perempuan,18,TBSM,70.3,88.8,>6 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0600,Perempuan,18,RPL,72.2,97.0,4-6 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0601,Laki-laki,18,BDP,88.7,94.7,2-4 Juta,Tinggi,Tinggi,Belum Menentukan,Dekat,Tidak
+S0602,Perempuan,18,AKL,87.3,99.0,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Tidak
+S0603,Perempuan,18,TKJ,71.3,74.5,4-6 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0604,Perempuan,18,BDP,71.0,90.9,<2 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0605,Perempuan,18,RPL,71.9,94.2,4-6 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0606,Perempuan,18,BDP,85.0,77.6,<2 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0607,Perempuan,17,AKL,68.5,84.1,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0608,Laki-laki,18,RPL,81.4,82.7,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Ya
+S0609,Perempuan,18,RPL,85.1,89.2,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0610,Laki-laki,18,BDP,77.2,100.0,<2 Juta,Sedang,Sedang,Wirausaha,Jauh,Tidak
+S0611,Perempuan,18,TKJ,87.6,100.0,4-6 Juta,Sedang,Sedang,Kerja,Jauh,Ya
+S0612,Perempuan,18,TBSM,75.1,82.9,2-4 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0613,Perempuan,18,BDP,76.0,92.9,2-4 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0614,Perempuan,18,BDP,68.7,93.2,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0615,Laki-laki,19,TKJ,87.7,91.9,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0616,Perempuan,18,BDP,70.7,92.0,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0617,Perempuan,18,TBSM,81.3,91.3,<2 Juta,Rendah,Rendah,Kerja,Dekat,Tidak
+S0618,Laki-laki,18,RPL,77.3,100.0,2-4 Juta,Sedang,Tinggi,Wirausaha,Dekat,Ya
+S0619,Laki-laki,18,TKJ,68.0,97.3,4-6 Juta,Tinggi,Sedang,Kuliah,Jauh,Tidak
+S0620,Laki-laki,18,RPL,72.2,81.0,<2 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0621,Perempuan,19,TKJ,91.1,95.0,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Ya
+S0622,Laki-laki,18,BDP,79.9,95.7,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0623,Perempuan,18,AKL,68.4,91.4,4-6 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0624,Laki-laki,18,AKL,80.9,97.5,2-4 Juta,Sedang,Rendah,Kuliah,Dekat,Ya
+S0625,Perempuan,18,TKJ,76.6,90.4,4-6 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Ya
+S0626,Laki-laki,17,RPL,98.0,90.5,<2 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0627,Perempuan,18,TKJ,80.7,89.9,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Ya
+S0628,Laki-laki,18,TBSM,74.4,73.9,>6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0629,Perempuan,19,AKL,91.5,88.4,4-6 Juta,Rendah,Tinggi,Belum Menentukan,Jauh,Tidak
+S0630,Perempuan,18,TKJ,60.5,84.0,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0631,Perempuan,18,BDP,78.9,80.1,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0632,Perempuan,19,RPL,96.9,99.8,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0633,Laki-laki,18,TKJ,76.9,92.8,<2 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S0634,Laki-laki,18,RPL,61.5,88.8,4-6 Juta,Rendah,Rendah,Belum Menentukan,Dekat,Tidak
+S0635,Laki-laki,18,TBSM,74.2,84.8,4-6 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0636,Laki-laki,18,BDP,91.8,91.2,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0637,Perempuan,17,AKL,81.6,96.4,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0638,Perempuan,18,RPL,70.0,82.8,2-4 Juta,Sedang,Sedang,Wirausaha,Dekat,Tidak
+S0639,Perempuan,18,RPL,71.5,89.0,<2 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0640,Perempuan,18,AKL,72.7,95.5,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0641,Perempuan,17,TKJ,81.4,74.5,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Tidak
+S0642,Perempuan,18,TBSM,90.7,88.6,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0643,Laki-laki,18,BDP,88.0,85.8,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0644,Laki-laki,19,TKJ,82.3,88.0,>6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0645,Perempuan,18,BDP,65.3,85.2,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S0646,Perempuan,18,TBSM,65.4,90.0,2-4 Juta,Tinggi,Tinggi,Belum Menentukan,Jauh,Tidak
+S0647,Laki-laki,18,TKJ,83.1,100.0,2-4 Juta,Rendah,Tinggi,Kuliah,Sedang,Ya
+S0648,Laki-laki,18,AKL,65.2,86.6,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0649,Perempuan,18,TBSM,75.9,91.2,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0650,Laki-laki,18,TKJ,80.9,100.0,2-4 Juta,Sedang,Tinggi,Wirausaha,Jauh,Tidak
+S0651,Laki-laki,18,TBSM,67.2,84.9,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0652,Perempuan,19,RPL,68.3,100.0,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0653,Perempuan,18,AKL,77.1,89.0,4-6 Juta,Rendah,Sedang,Kuliah,Jauh,Tidak
+S0654,Laki-laki,18,BDP,82.8,100.0,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0655,Perempuan,19,AKL,88.1,94.6,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Ya
+S0656,Laki-laki,19,AKL,83.8,91.3,2-4 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S0657,Perempuan,18,AKL,78.7,88.5,4-6 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0658,Laki-laki,18,RPL,70.9,84.3,4-6 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S0659,Perempuan,18,RPL,67.8,89.6,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0660,Laki-laki,18,TKJ,73.1,95.7,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Tidak
+S0661,Laki-laki,18,AKL,81.9,88.9,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0662,Perempuan,19,TKJ,81.2,86.6,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0663,Laki-laki,19,TKJ,58.1,87.1,2-4 Juta,Sedang,Tinggi,Kuliah,Dekat,Tidak
+S0664,Laki-laki,18,TBSM,70.5,96.4,2-4 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0665,Laki-laki,18,TKJ,89.4,98.2,<2 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0666,Perempuan,19,TKJ,78.8,84.0,2-4 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0667,Perempuan,19,TKJ,64.5,84.0,2-4 Juta,Rendah,Tinggi,Kerja,Jauh,Tidak
+S0668,Perempuan,18,RPL,98.0,91.8,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0669,Laki-laki,18,BDP,77.7,100.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0670,Laki-laki,19,TKJ,81.7,97.6,4-6 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0671,Laki-laki,18,RPL,81.8,79.6,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0672,Perempuan,18,TBSM,74.5,87.0,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0673,Perempuan,19,BDP,71.1,82.0,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0674,Perempuan,19,BDP,98.0,87.0,4-6 Juta,Rendah,Sedang,Kuliah,Dekat,Tidak
+S0675,Perempuan,19,TBSM,87.5,100.0,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Ya
+S0676,Laki-laki,18,TBSM,85.8,78.3,<2 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0677,Perempuan,18,TKJ,83.5,76.9,>6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0678,Laki-laki,18,AKL,68.5,82.8,<2 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0679,Laki-laki,18,AKL,90.1,91.2,2-4 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0680,Laki-laki,18,TKJ,70.0,93.7,4-6 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0681,Laki-laki,18,RPL,80.7,92.3,2-4 Juta,Sedang,Rendah,Wirausaha,Jauh,Tidak
+S0682,Laki-laki,18,RPL,62.4,97.8,2-4 Juta,Rendah,Sedang,Wirausaha,Jauh,Tidak
+S0683,Laki-laki,18,AKL,58.6,75.8,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0684,Laki-laki,18,BDP,81.0,97.9,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0685,Perempuan,18,BDP,70.3,86.7,<2 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0686,Laki-laki,18,TKJ,59.1,94.5,<2 Juta,Sedang,Rendah,Kerja,Sedang,Ya
+S0687,Laki-laki,18,RPL,83.1,79.1,<2 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Tidak
+S0688,Perempuan,18,TKJ,98.0,89.0,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0689,Perempuan,19,AKL,91.2,90.8,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0690,Perempuan,18,TBSM,75.6,97.7,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0691,Laki-laki,18,TBSM,78.1,77.1,4-6 Juta,Tinggi,Rendah,Belum Menentukan,Sedang,Tidak
+S0692,Perempuan,18,TBSM,86.4,89.2,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0693,Laki-laki,18,TBSM,88.7,80.9,<2 Juta,Sedang,Sedang,Kuliah,Jauh,Tidak
+S0694,Laki-laki,17,TBSM,74.7,92.8,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0695,Perempuan,18,TKJ,78.3,94.8,>6 Juta,Rendah,Tinggi,Wirausaha,Dekat,Ya
+S0696,Perempuan,18,RPL,80.9,98.7,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0697,Perempuan,18,RPL,83.3,85.0,<2 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S0698,Perempuan,18,TKJ,76.7,96.0,4-6 Juta,Sedang,Sedang,Kuliah,Dekat,Tidak
+S0699,Perempuan,17,TKJ,76.9,99.2,4-6 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S0700,Laki-laki,17,RPL,91.1,76.7,2-4 Juta,Rendah,Sedang,Kuliah,Sedang,Ya
+S0701,Laki-laki,18,TBSM,89.5,93.6,<2 Juta,Tinggi,Sedang,Wirausaha,Sedang,Tidak
+S0702,Laki-laki,17,RPL,82.5,96.2,<2 Juta,Rendah,Sedang,Belum Menentukan,Jauh,Tidak
+S0703,Laki-laki,19,TBSM,94.3,87.1,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0704,Perempuan,18,BDP,74.3,79.9,>6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0705,Laki-laki,18,AKL,93.4,96.1,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0706,Perempuan,18,BDP,83.2,80.0,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0707,Perempuan,18,TKJ,98.0,87.7,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S0708,Perempuan,17,AKL,66.7,88.7,4-6 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0709,Laki-laki,19,RPL,71.5,94.4,2-4 Juta,Tinggi,Rendah,Kuliah,Sedang,Ya
+S0710,Laki-laki,19,TBSM,82.0,84.3,4-6 Juta,Rendah,Rendah,Kuliah,Sedang,Tidak
+S0711,Perempuan,17,TKJ,81.8,83.9,2-4 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0712,Perempuan,18,TKJ,96.5,89.7,2-4 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0713,Perempuan,19,BDP,71.7,96.5,2-4 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0714,Perempuan,18,AKL,86.6,100.0,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0715,Perempuan,18,TKJ,89.0,77.7,>6 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0716,Laki-laki,18,AKL,84.7,91.4,2-4 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Tidak
+S0717,Perempuan,18,RPL,68.9,80.9,2-4 Juta,Tinggi,Tinggi,Wirausaha,Dekat,Ya
+S0718,Laki-laki,18,BDP,91.4,96.6,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0719,Perempuan,18,TKJ,89.7,82.0,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0720,Perempuan,19,TKJ,83.7,83.9,2-4 Juta,Tinggi,Tinggi,Kuliah,Sedang,Tidak
+S0721,Laki-laki,18,RPL,79.9,84.6,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0722,Laki-laki,18,TKJ,80.1,88.4,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0723,Laki-laki,18,TKJ,77.3,91.4,2-4 Juta,Tinggi,Rendah,Kuliah,Jauh,Tidak
+S0724,Perempuan,18,TKJ,84.1,92.6,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0725,Laki-laki,18,RPL,78.3,89.0,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0726,Laki-laki,17,RPL,69.9,79.0,2-4 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Tidak
+S0727,Laki-laki,18,AKL,68.0,94.5,2-4 Juta,Rendah,Tinggi,Kerja,Jauh,Tidak
+S0728,Laki-laki,18,RPL,70.9,88.6,2-4 Juta,Tinggi,Tinggi,Kuliah,Jauh,Tidak
+S0729,Laki-laki,17,BDP,80.1,97.7,4-6 Juta,Tinggi,Sedang,Kuliah,Dekat,Ya
+S0730,Laki-laki,18,TBSM,77.7,83.7,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0731,Laki-laki,18,TKJ,80.0,77.0,4-6 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0732,Laki-laki,18,TBSM,82.8,88.7,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0733,Laki-laki,18,RPL,72.0,98.7,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Tidak
+S0734,Laki-laki,19,RPL,91.9,90.2,4-6 Juta,Rendah,Sedang,Kuliah,Jauh,Ya
+S0735,Laki-laki,18,BDP,75.5,87.5,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0736,Perempuan,18,BDP,73.9,82.5,2-4 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S0737,Laki-laki,18,BDP,82.6,100.0,2-4 Juta,Sedang,Rendah,Kuliah,Dekat,Ya
+S0738,Laki-laki,18,RPL,60.6,81.3,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0739,Laki-laki,18,BDP,70.5,83.6,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0740,Laki-laki,17,TKJ,87.3,93.3,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Ya
+S0741,Laki-laki,18,TKJ,61.5,75.1,<2 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Tidak
+S0742,Laki-laki,18,RPL,88.6,98.6,2-4 Juta,Sedang,Rendah,Belum Menentukan,Jauh,Tidak
+S0743,Perempuan,18,TBSM,92.4,93.7,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0744,Laki-laki,18,RPL,74.5,95.7,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0745,Laki-laki,19,BDP,80.8,93.2,2-4 Juta,Rendah,Sedang,Kuliah,Jauh,Tidak
+S0746,Laki-laki,19,AKL,88.6,87.8,4-6 Juta,Tinggi,Rendah,Kerja,Dekat,Ya
+S0747,Laki-laki,18,BDP,73.6,81.0,4-6 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0748,Laki-laki,19,BDP,86.2,87.9,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0749,Perempuan,17,TBSM,71.6,81.7,>6 Juta,Tinggi,Sedang,Kuliah,Sedang,Tidak
+S0750,Perempuan,19,RPL,73.5,92.6,2-4 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0751,Laki-laki,19,RPL,70.4,95.1,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0752,Laki-laki,17,AKL,81.3,100.0,<2 Juta,Tinggi,Tinggi,Kuliah,Dekat,Ya
+S0753,Laki-laki,18,TKJ,89.0,91.8,<2 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S0754,Laki-laki,19,RPL,76.3,95.9,2-4 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0755,Perempuan,19,RPL,65.9,86.8,<2 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S0756,Laki-laki,19,TKJ,67.7,85.4,2-4 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S0757,Laki-laki,18,RPL,81.7,92.6,<2 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0758,Perempuan,17,RPL,95.5,86.1,2-4 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S0759,Laki-laki,19,TBSM,81.7,91.0,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Ya
+S0760,Laki-laki,18,TKJ,74.3,81.0,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0761,Perempuan,18,TBSM,85.3,82.4,>6 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0762,Laki-laki,18,TBSM,75.7,93.8,2-4 Juta,Rendah,Tinggi,Kerja,Jauh,Tidak
+S0763,Laki-laki,18,RPL,74.4,95.7,>6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0764,Laki-laki,18,BDP,68.9,81.6,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0765,Perempuan,18,AKL,91.4,94.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0766,Laki-laki,17,BDP,55.0,85.0,2-4 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S0767,Laki-laki,18,RPL,85.6,89.1,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0768,Laki-laki,19,RPL,73.6,99.6,<2 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S0769,Laki-laki,18,RPL,74.1,95.1,4-6 Juta,Tinggi,Tinggi,Wirausaha,Jauh,Ya
+S0770,Perempuan,18,AKL,94.1,95.0,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0771,Laki-laki,18,TBSM,71.2,100.0,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0772,Perempuan,19,BDP,71.5,83.7,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0773,Perempuan,18,BDP,76.8,81.6,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0774,Perempuan,18,TBSM,81.9,83.6,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0775,Laki-laki,18,BDP,73.8,87.1,>6 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0776,Perempuan,18,RPL,63.0,71.3,2-4 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0777,Perempuan,18,TBSM,69.8,87.4,<2 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0778,Laki-laki,19,TKJ,90.2,84.9,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0779,Perempuan,18,RPL,78.7,94.9,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0780,Perempuan,18,AKL,82.3,91.6,>6 Juta,Rendah,Tinggi,Belum Menentukan,Jauh,Tidak
+S0781,Laki-laki,19,TBSM,75.5,84.5,4-6 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0782,Perempuan,18,TKJ,71.7,93.4,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0783,Laki-laki,19,AKL,93.9,94.4,>6 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0784,Perempuan,18,RPL,76.2,83.2,4-6 Juta,Tinggi,Rendah,Belum Menentukan,Sedang,Tidak
+S0785,Perempuan,18,RPL,73.8,85.3,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0786,Laki-laki,19,RPL,88.4,72.3,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0787,Perempuan,18,BDP,71.1,80.8,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0788,Laki-laki,18,TBSM,72.4,83.4,<2 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0789,Perempuan,19,RPL,78.1,89.6,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0790,Perempuan,18,TKJ,78.0,81.9,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0791,Laki-laki,18,RPL,80.5,85.1,>6 Juta,Sedang,Tinggi,Kerja,Jauh,Ya
+S0792,Laki-laki,18,RPL,97.9,79.8,>6 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0793,Laki-laki,18,AKL,81.2,90.3,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0794,Laki-laki,17,BDP,55.4,92.2,4-6 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Tidak
+S0795,Laki-laki,18,AKL,81.1,92.0,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0796,Laki-laki,18,TKJ,78.4,89.1,<2 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0797,Laki-laki,18,AKL,78.4,77.4,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0798,Laki-laki,18,RPL,80.3,84.4,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0799,Perempuan,19,RPL,77.7,85.9,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0800,Perempuan,18,TBSM,77.5,86.0,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0801,Perempuan,19,BDP,83.8,89.6,<2 Juta,Tinggi,Sedang,Kuliah,Jauh,Ya
+S0802,Laki-laki,18,TBSM,72.9,99.7,<2 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Tidak
+S0803,Perempuan,19,TBSM,69.0,95.1,>6 Juta,Sedang,Rendah,Kuliah,Sedang,Ya
+S0804,Perempuan,18,AKL,98.0,81.6,<2 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S0805,Laki-laki,18,TBSM,71.2,94.1,2-4 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Ya
+S0806,Laki-laki,19,TKJ,79.0,93.8,2-4 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0807,Perempuan,18,RPL,63.8,83.0,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0808,Laki-laki,18,RPL,79.1,95.4,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Ya
+S0809,Laki-laki,18,RPL,69.1,87.8,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0810,Perempuan,18,RPL,73.8,78.4,2-4 Juta,Rendah,Tinggi,Kuliah,Sedang,Tidak
+S0811,Laki-laki,17,TKJ,87.9,92.4,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S0812,Laki-laki,18,BDP,82.5,90.6,4-6 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0813,Perempuan,18,BDP,83.4,87.3,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0814,Perempuan,18,AKL,61.2,88.7,2-4 Juta,Sedang,Tinggi,Wirausaha,Sedang,Ya
+S0815,Laki-laki,18,RPL,95.5,83.6,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Ya
+S0816,Perempuan,18,BDP,66.7,93.6,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0817,Perempuan,18,TKJ,92.5,88.7,2-4 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0818,Perempuan,17,RPL,87.7,90.2,<2 Juta,Rendah,Tinggi,Kuliah,Sedang,Tidak
+S0819,Perempuan,18,TKJ,83.5,91.7,2-4 Juta,Sedang,Rendah,Kuliah,Jauh,Ya
+S0820,Laki-laki,18,TKJ,69.9,80.3,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0821,Laki-laki,18,TKJ,79.4,82.3,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0822,Perempuan,18,BDP,73.5,72.4,<2 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S0823,Laki-laki,17,BDP,78.3,93.2,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0824,Perempuan,18,BDP,75.6,79.9,2-4 Juta,Rendah,Sedang,Wirausaha,Jauh,Tidak
+S0825,Perempuan,18,RPL,58.6,90.0,4-6 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S0826,Laki-laki,18,BDP,88.7,91.8,>6 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0827,Perempuan,19,BDP,77.2,93.5,>6 Juta,Tinggi,Rendah,Kuliah,Jauh,Ya
+S0828,Laki-laki,18,RPL,73.4,80.0,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0829,Perempuan,18,AKL,72.7,88.5,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0830,Laki-laki,18,AKL,81.4,100.0,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0831,Perempuan,17,TKJ,69.5,100.0,2-4 Juta,Rendah,Rendah,Kuliah,Sedang,Ya
+S0832,Perempuan,18,RPL,56.6,96.4,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0833,Laki-laki,18,AKL,81.9,91.5,2-4 Juta,Rendah,Tinggi,Kuliah,Sedang,Ya
+S0834,Perempuan,18,RPL,82.9,81.5,<2 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0835,Perempuan,18,RPL,76.1,94.4,<2 Juta,Tinggi,Rendah,Kuliah,Dekat,Ya
+S0836,Perempuan,18,RPL,67.1,87.8,<2 Juta,Rendah,Rendah,Belum Menentukan,Sedang,Tidak
+S0837,Perempuan,19,TBSM,78.8,93.2,<2 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Tidak
+S0838,Perempuan,17,TKJ,64.1,84.3,>6 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0839,Laki-laki,18,TKJ,68.2,87.7,<2 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S0840,Laki-laki,18,TKJ,70.9,90.2,2-4 Juta,Sedang,Sedang,Kuliah,Jauh,Tidak
+S0841,Laki-laki,18,TBSM,86.0,90.8,>6 Juta,Tinggi,Rendah,Wirausaha,Jauh,Tidak
+S0842,Perempuan,18,AKL,74.6,92.7,2-4 Juta,Rendah,Tinggi,Kerja,Sedang,Tidak
+S0843,Perempuan,18,TBSM,73.7,84.7,2-4 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0844,Laki-laki,19,TKJ,96.6,78.9,4-6 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0845,Laki-laki,19,RPL,81.3,100.0,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0846,Perempuan,17,AKL,81.2,100.0,2-4 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S0847,Laki-laki,18,TKJ,74.5,92.4,4-6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S0848,Perempuan,18,BDP,72.3,79.1,4-6 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S0849,Laki-laki,18,TBSM,57.2,83.2,4-6 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S0850,Perempuan,18,AKL,87.2,92.8,>6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0851,Laki-laki,19,TBSM,82.3,99.1,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0852,Laki-laki,17,AKL,76.3,79.9,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0853,Perempuan,18,TKJ,76.7,88.1,2-4 Juta,Sedang,Sedang,Wirausaha,Dekat,Tidak
+S0854,Perempuan,19,AKL,85.0,90.5,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S0855,Laki-laki,18,RPL,63.2,95.5,4-6 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0856,Laki-laki,18,BDP,72.4,86.4,4-6 Juta,Rendah,Rendah,Belum Menentukan,Jauh,Tidak
+S0857,Perempuan,19,RPL,67.2,77.3,4-6 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0858,Perempuan,18,TKJ,94.8,93.7,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0859,Laki-laki,18,AKL,86.3,97.4,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0860,Laki-laki,17,RPL,57.1,88.4,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S0861,Perempuan,19,RPL,63.6,92.0,2-4 Juta,Tinggi,Rendah,Belum Menentukan,Jauh,Tidak
+S0862,Perempuan,18,BDP,76.7,85.4,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0863,Perempuan,18,RPL,73.5,82.7,4-6 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0864,Perempuan,18,AKL,65.4,96.7,2-4 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0865,Laki-laki,18,TKJ,96.5,91.9,2-4 Juta,Rendah,Sedang,Kuliah,Sedang,Ya
+S0866,Perempuan,19,RPL,81.0,92.7,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Tidak
+S0867,Perempuan,18,RPL,82.5,100.0,<2 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S0868,Perempuan,19,BDP,71.4,81.1,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0869,Laki-laki,18,TBSM,84.9,84.9,>6 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0870,Laki-laki,18,RPL,74.4,90.2,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0871,Perempuan,19,TBSM,75.3,84.8,>6 Juta,Sedang,Sedang,Kuliah,Dekat,Tidak
+S0872,Laki-laki,18,AKL,83.8,94.9,<2 Juta,Sedang,Sedang,Wirausaha,Jauh,Tidak
+S0873,Perempuan,18,AKL,62.5,87.6,4-6 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S0874,Laki-laki,19,BDP,93.2,81.6,2-4 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S0875,Perempuan,18,BDP,79.7,89.5,4-6 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S0876,Perempuan,18,BDP,90.2,90.3,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0877,Laki-laki,19,AKL,67.8,96.0,4-6 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0878,Laki-laki,18,AKL,69.2,91.9,>6 Juta,Sedang,Sedang,Wirausaha,Jauh,Ya
+S0879,Perempuan,18,TKJ,67.0,92.5,2-4 Juta,Rendah,Sedang,Wirausaha,Jauh,Tidak
+S0880,Perempuan,17,RPL,80.4,91.4,<2 Juta,Tinggi,Sedang,Kuliah,Sedang,Tidak
+S0881,Laki-laki,18,AKL,78.6,87.6,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0882,Perempuan,18,RPL,73.6,83.6,4-6 Juta,Sedang,Rendah,Belum Menentukan,Sedang,Tidak
+S0883,Perempuan,18,TKJ,68.4,91.2,2-4 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0884,Laki-laki,18,RPL,66.0,86.5,2-4 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S0885,Laki-laki,18,RPL,77.5,100.0,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Ya
+S0886,Laki-laki,18,AKL,73.6,99.1,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0887,Laki-laki,18,AKL,71.5,93.7,4-6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0888,Laki-laki,18,TKJ,92.7,91.8,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0889,Laki-laki,18,RPL,77.2,88.3,4-6 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S0890,Perempuan,18,TKJ,90.1,79.5,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0891,Laki-laki,18,TKJ,72.9,87.4,4-6 Juta,Rendah,Rendah,Kuliah,Jauh,Tidak
+S0892,Perempuan,19,BDP,80.3,89.8,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Tidak
+S0893,Laki-laki,18,AKL,77.5,90.7,>6 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0894,Laki-laki,18,AKL,61.9,92.5,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0895,Perempuan,19,AKL,91.6,95.9,2-4 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S0896,Perempuan,18,TBSM,76.7,83.8,4-6 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S0897,Laki-laki,17,BDP,85.1,83.9,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Ya
+S0898,Laki-laki,18,AKL,70.9,99.9,<2 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S0899,Laki-laki,18,AKL,76.4,94.8,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Ya
+S0900,Perempuan,18,RPL,69.8,86.1,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0901,Laki-laki,18,TBSM,89.7,88.2,>6 Juta,Sedang,Rendah,Belum Menentukan,Sedang,Tidak
+S0902,Laki-laki,18,TKJ,81.0,88.2,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0903,Laki-laki,19,TKJ,81.5,89.2,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0904,Laki-laki,19,TBSM,90.9,92.5,2-4 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Ya
+S0905,Perempuan,18,BDP,89.0,100.0,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0906,Perempuan,18,RPL,85.3,90.4,<2 Juta,Sedang,Tinggi,Kuliah,Jauh,Tidak
+S0907,Laki-laki,18,RPL,64.5,94.0,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Tidak
+S0908,Laki-laki,19,RPL,71.4,76.4,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0909,Laki-laki,18,AKL,68.5,85.4,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Jauh,Tidak
+S0910,Laki-laki,18,RPL,84.9,98.2,2-4 Juta,Rendah,Tinggi,Kerja,Dekat,Ya
+S0911,Perempuan,18,TBSM,79.6,92.0,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Ya
+S0912,Perempuan,18,TBSM,64.8,60.0,4-6 Juta,Tinggi,Tinggi,Kuliah,Sedang,Tidak
+S0913,Perempuan,18,AKL,76.2,94.1,2-4 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S0914,Perempuan,18,AKL,63.8,100.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0915,Perempuan,17,TKJ,77.5,74.0,>6 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S0916,Perempuan,19,RPL,62.3,100.0,2-4 Juta,Rendah,Sedang,Belum Menentukan,Dekat,Tidak
+S0917,Laki-laki,18,BDP,83.0,68.2,<2 Juta,Tinggi,Sedang,Kuliah,Dekat,Tidak
+S0918,Laki-laki,17,RPL,81.6,96.0,4-6 Juta,Sedang,Tinggi,Wirausaha,Dekat,Tidak
+S0919,Laki-laki,18,RPL,96.1,88.9,<2 Juta,Sedang,Rendah,Kerja,Sedang,Ya
+S0920,Perempuan,18,TKJ,86.1,71.4,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0921,Laki-laki,18,RPL,74.0,92.3,4-6 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S0922,Perempuan,17,TKJ,85.8,97.6,>6 Juta,Sedang,Sedang,Wirausaha,Dekat,Ya
+S0923,Perempuan,18,BDP,64.7,91.7,>6 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S0924,Perempuan,18,BDP,68.9,93.4,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0925,Laki-laki,18,AKL,81.2,85.9,4-6 Juta,Rendah,Tinggi,Kuliah,Sedang,Ya
+S0926,Laki-laki,18,BDP,57.5,75.0,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0927,Laki-laki,18,TKJ,77.6,94.2,2-4 Juta,Tinggi,Sedang,Wirausaha,Dekat,Ya
+S0928,Perempuan,18,BDP,68.3,100.0,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0929,Perempuan,18,AKL,79.0,97.5,<2 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S0930,Perempuan,17,RPL,67.8,74.1,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0931,Laki-laki,18,TBSM,82.0,77.6,<2 Juta,Tinggi,Rendah,Kuliah,Dekat,Ya
+S0932,Laki-laki,18,TKJ,78.2,82.7,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0933,Laki-laki,19,RPL,91.3,77.1,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0934,Perempuan,19,TKJ,78.1,89.3,>6 Juta,Rendah,Sedang,Kuliah,Sedang,Ya
+S0935,Perempuan,18,TKJ,70.7,92.0,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S0936,Laki-laki,18,TKJ,75.7,78.3,4-6 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Tidak
+S0937,Perempuan,18,AKL,65.2,94.8,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0938,Laki-laki,18,TBSM,81.9,93.5,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S0939,Perempuan,18,TKJ,83.6,84.9,2-4 Juta,Rendah,Tinggi,Kuliah,Sedang,Tidak
+S0940,Laki-laki,19,AKL,98.0,87.7,4-6 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S0941,Laki-laki,19,TKJ,72.1,74.4,4-6 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0942,Perempuan,18,BDP,75.5,86.5,4-6 Juta,Rendah,Sedang,Wirausaha,Jauh,Tidak
+S0943,Laki-laki,18,RPL,72.5,89.1,>6 Juta,Tinggi,Sedang,Wirausaha,Sedang,Tidak
+S0944,Laki-laki,19,RPL,80.0,90.3,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0945,Laki-laki,18,AKL,81.6,91.8,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Ya
+S0946,Laki-laki,19,BDP,77.5,90.8,4-6 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S0947,Perempuan,18,BDP,88.3,87.0,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0948,Perempuan,19,AKL,72.1,91.1,4-6 Juta,Sedang,Sedang,Kerja,Sedang,Ya
+S0949,Perempuan,18,BDP,87.4,96.5,<2 Juta,Sedang,Rendah,Belum Menentukan,Sedang,Ya
+S0950,Laki-laki,18,TKJ,83.1,88.3,<2 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S0951,Perempuan,18,RPL,77.9,91.4,2-4 Juta,Tinggi,Sedang,Wirausaha,Jauh,Tidak
+S0952,Laki-laki,17,RPL,75.0,87.6,<2 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S0953,Laki-laki,18,RPL,98.0,84.1,>6 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S0954,Laki-laki,18,TKJ,70.2,92.9,<2 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0955,Perempuan,18,AKL,80.8,84.8,4-6 Juta,Sedang,Tinggi,Kerja,Jauh,Ya
+S0956,Perempuan,19,TKJ,70.9,91.9,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S0957,Perempuan,18,AKL,95.0,89.2,>6 Juta,Rendah,Sedang,Kerja,Sedang,Ya
+S0958,Laki-laki,18,AKL,86.4,86.7,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S0959,Laki-laki,18,BDP,71.6,86.5,<2 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0960,Perempuan,17,AKL,82.9,85.2,<2 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S0961,Perempuan,18,TKJ,80.4,76.7,2-4 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Ya
+S0962,Laki-laki,18,TKJ,73.1,91.9,>6 Juta,Sedang,Rendah,Kuliah,Jauh,Ya
+S0963,Laki-laki,18,AKL,85.2,90.7,>6 Juta,Tinggi,Rendah,Kuliah,Sedang,Ya
+S0964,Laki-laki,18,AKL,81.7,95.4,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S0965,Perempuan,19,TKJ,80.0,85.0,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S0966,Laki-laki,18,TKJ,77.6,100.0,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0967,Perempuan,19,BDP,82.1,86.2,2-4 Juta,Rendah,Tinggi,Wirausaha,Sedang,Ya
+S0968,Laki-laki,18,AKL,80.2,82.4,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S0969,Perempuan,18,RPL,78.6,81.5,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0970,Laki-laki,18,TKJ,71.9,76.0,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Ya
+S0971,Laki-laki,18,TBSM,94.1,100.0,4-6 Juta,Sedang,Tinggi,Kuliah,Dekat,Ya
+S0972,Laki-laki,18,RPL,68.0,99.3,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0973,Laki-laki,18,TBSM,82.1,93.5,<2 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S0974,Perempuan,18,RPL,75.0,82.3,<2 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0975,Laki-laki,18,AKL,94.7,100.0,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S0976,Perempuan,18,TKJ,69.4,86.4,<2 Juta,Tinggi,Tinggi,Kuliah,Dekat,Ya
+S0977,Laki-laki,18,RPL,71.0,87.0,2-4 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S0978,Laki-laki,19,TBSM,68.8,99.8,<2 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S0979,Perempuan,18,TKJ,81.1,93.9,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Ya
+S0980,Laki-laki,19,TBSM,65.0,100.0,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S0981,Perempuan,18,TKJ,73.5,90.9,>6 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S0982,Perempuan,19,TBSM,57.6,86.0,2-4 Juta,Rendah,Sedang,Wirausaha,Jauh,Tidak
+S0983,Perempuan,19,TBSM,80.3,84.4,<2 Juta,Tinggi,Tinggi,Belum Menentukan,Jauh,Tidak
+S0984,Laki-laki,18,AKL,73.2,75.1,<2 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Tidak
+S0985,Laki-laki,18,RPL,63.9,86.9,<2 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S0986,Perempuan,18,BDP,88.3,97.6,>6 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S0987,Laki-laki,19,AKL,65.6,93.5,>6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S0988,Laki-laki,18,TBSM,85.6,89.2,2-4 Juta,Rendah,Sedang,Kuliah,Jauh,Ya
+S0989,Laki-laki,18,TKJ,71.3,81.5,2-4 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Tidak
+S0990,Perempuan,19,TKJ,93.2,90.7,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S0991,Perempuan,18,RPL,85.1,96.6,<2 Juta,Rendah,Sedang,Kerja,Dekat,Ya
+S0992,Perempuan,18,BDP,68.4,92.2,>6 Juta,Sedang,Tinggi,Wirausaha,Dekat,Tidak
+S0993,Perempuan,18,TBSM,69.3,90.3,<2 Juta,Rendah,Sedang,Kuliah,Dekat,Tidak
+S0994,Laki-laki,17,RPL,83.8,83.0,2-4 Juta,Tinggi,Tinggi,Belum Menentukan,Sedang,Ya
+S0995,Perempuan,18,BDP,75.5,95.5,2-4 Juta,Tinggi,Sedang,Kerja,Jauh,Ya
+S0996,Laki-laki,19,TBSM,76.4,65.5,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S0997,Perempuan,17,RPL,90.1,91.9,2-4 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S0998,Laki-laki,18,RPL,70.9,100.0,4-6 Juta,Tinggi,Sedang,Wirausaha,Dekat,Ya
+S0999,Perempuan,18,BDP,78.9,77.7,<2 Juta,Sedang,Rendah,Wirausaha,Sedang,Tidak
+S1000,Laki-laki,18,AKL,87.1,87.2,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S1001,Laki-laki,18,RPL,85.7,88.9,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S1002,Laki-laki,19,BDP,76.5,85.5,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S1003,Laki-laki,19,AKL,75.3,96.8,<2 Juta,Rendah,Rendah,Wirausaha,Jauh,Tidak
+S1004,Laki-laki,18,TBSM,61.5,92.5,<2 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Tidak
+S1005,Perempuan,18,TBSM,68.0,90.1,<2 Juta,Tinggi,Rendah,Wirausaha,Jauh,Tidak
+S1006,Laki-laki,18,BDP,81.0,95.0,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S1007,Perempuan,18,AKL,76.7,89.1,4-6 Juta,Tinggi,Sedang,Kuliah,Sedang,Tidak
+S1008,Laki-laki,18,TKJ,78.7,100.0,4-6 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S1009,Perempuan,18,AKL,87.9,90.1,>6 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S1010,Laki-laki,18,RPL,66.7,90.5,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Ya
+S1011,Perempuan,19,AKL,75.8,76.2,4-6 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S1012,Perempuan,18,RPL,79.8,84.9,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Ya
+S1013,Laki-laki,19,AKL,71.3,97.6,<2 Juta,Rendah,Rendah,Wirausaha,Sedang,Tidak
+S1014,Perempuan,18,RPL,91.6,79.0,2-4 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S1015,Laki-laki,19,TKJ,86.6,72.8,2-4 Juta,Tinggi,Rendah,Wirausaha,Dekat,Tidak
+S1016,Laki-laki,18,RPL,80.8,89.2,4-6 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S1017,Perempuan,18,AKL,95.0,99.3,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S1018,Perempuan,19,BDP,63.8,89.3,<2 Juta,Sedang,Sedang,Kuliah,Jauh,Tidak
+S1019,Laki-laki,19,RPL,77.9,86.5,>6 Juta,Tinggi,Tinggi,Wirausaha,Dekat,Ya
+S1020,Laki-laki,18,TBSM,81.5,75.1,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S1021,Perempuan,18,TBSM,69.3,92.4,>6 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S1022,Perempuan,18,TKJ,80.9,94.0,4-6 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S1023,Perempuan,18,AKL,67.5,75.6,4-6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S1024,Perempuan,18,TKJ,84.6,97.5,4-6 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S1025,Perempuan,19,RPL,88.0,94.7,<2 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Ya
+S1026,Laki-laki,18,AKL,80.6,97.5,2-4 Juta,Rendah,Tinggi,Wirausaha,Sedang,Tidak
+S1027,Perempuan,18,RPL,60.4,93.4,4-6 Juta,Rendah,Sedang,Kuliah,Sedang,Tidak
+S1028,Laki-laki,17,TBSM,68.8,93.9,4-6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S1029,Perempuan,17,TBSM,83.4,92.9,<2 Juta,Tinggi,Sedang,Belum Menentukan,Dekat,Ya
+S1030,Laki-laki,18,BDP,78.2,95.5,<2 Juta,Sedang,Tinggi,Kuliah,Jauh,Ya
+S1031,Perempuan,18,AKL,55.0,75.4,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Dekat,Tidak
+S1032,Perempuan,18,AKL,89.8,77.7,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S1033,Laki-laki,18,TBSM,79.3,83.5,2-4 Juta,Tinggi,Tinggi,Kuliah,Dekat,Ya
+S1034,Perempuan,19,TKJ,70.2,88.0,4-6 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S1035,Laki-laki,18,RPL,87.5,91.9,4-6 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S1036,Perempuan,19,AKL,71.6,91.4,2-4 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S1037,Laki-laki,18,TKJ,71.5,97.4,<2 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S1038,Laki-laki,18,TKJ,81.4,97.6,2-4 Juta,Sedang,Rendah,Kuliah,Sedang,Ya
+S1039,Laki-laki,18,RPL,94.9,82.5,2-4 Juta,Sedang,Rendah,Kuliah,Dekat,Ya
+S1040,Laki-laki,18,AKL,93.4,90.8,<2 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S1041,Laki-laki,18,TKJ,81.4,82.6,<2 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S1042,Perempuan,17,RPL,82.4,87.6,2-4 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S1043,Perempuan,18,RPL,85.5,91.4,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1044,Perempuan,18,TKJ,66.1,63.4,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S1045,Laki-laki,18,TBSM,84.1,100.0,<2 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S1046,Laki-laki,18,TKJ,71.0,93.2,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S1047,Laki-laki,18,BDP,81.0,84.5,<2 Juta,Rendah,Sedang,Kuliah,Sedang,Ya
+S1048,Perempuan,18,BDP,75.8,100.0,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Ya
+S1049,Perempuan,18,TKJ,82.8,86.4,2-4 Juta,Sedang,Rendah,Kuliah,Jauh,Ya
+S1050,Laki-laki,18,BDP,79.1,90.0,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
+S1051,Perempuan,18,BDP,55.0,85.3,<2 Juta,Tinggi,Rendah,Kuliah,Sedang,Tidak
+S1052,Laki-laki,18,AKL,79.7,100.0,>6 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Ya
+S1053,Laki-laki,18,RPL,84.1,88.2,2-4 Juta,Sedang,Sedang,Kuliah,Jauh,Tidak
+S1054,Laki-laki,18,RPL,82.2,90.1,2-4 Juta,Rendah,Sedang,Kuliah,Jauh,Tidak
+S1055,Laki-laki,19,TBSM,77.0,98.0,2-4 Juta,Sedang,Tinggi,Kerja,Dekat,Tidak
+S1056,Perempuan,18,BDP,93.6,93.4,4-6 Juta,Rendah,Rendah,Kuliah,Jauh,Ya
+S1057,Perempuan,19,TBSM,81.0,88.6,4-6 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S1058,Laki-laki,18,TBSM,82.2,97.3,2-4 Juta,Tinggi,Tinggi,Kuliah,Jauh,Ya
+S1059,Perempuan,17,RPL,87.9,100.0,4-6 Juta,Tinggi,Sedang,Wirausaha,Sedang,Ya
+S1060,Perempuan,18,BDP,81.4,91.4,<2 Juta,Sedang,Sedang,Kerja,Jauh,Ya
+S1061,Perempuan,18,TKJ,69.5,89.9,2-4 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S1062,Perempuan,19,BDP,55.0,90.3,2-4 Juta,Rendah,Tinggi,Kerja,Sedang,Tidak
+S1063,Laki-laki,18,RPL,73.5,98.8,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1064,Perempuan,18,TKJ,85.2,84.5,>6 Juta,Rendah,Rendah,Kerja,Sedang,Ya
+S1065,Laki-laki,18,BDP,74.6,86.9,4-6 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S1066,Perempuan,18,BDP,85.6,77.5,<2 Juta,Tinggi,Rendah,Belum Menentukan,Dekat,Tidak
+S1067,Laki-laki,18,AKL,79.4,80.1,>6 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Ya
+S1068,Perempuan,18,TKJ,90.2,85.1,2-4 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S1069,Laki-laki,18,TKJ,75.2,88.6,2-4 Juta,Sedang,Rendah,Kuliah,Sedang,Tidak
+S1070,Laki-laki,19,TBSM,82.4,100.0,4-6 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Ya
+S1071,Perempuan,18,TKJ,82.8,93.0,2-4 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Tidak
+S1072,Perempuan,18,TKJ,92.3,82.2,2-4 Juta,Rendah,Sedang,Kuliah,Jauh,Ya
+S1073,Laki-laki,18,AKL,61.8,83.5,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1074,Perempuan,19,TKJ,73.6,99.3,<2 Juta,Rendah,Tinggi,Wirausaha,Dekat,Ya
+S1075,Perempuan,19,AKL,86.1,97.4,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Ya
+S1076,Laki-laki,17,TKJ,92.7,89.2,2-4 Juta,Rendah,Tinggi,Kerja,Jauh,Tidak
+S1077,Perempuan,18,BDP,80.3,85.7,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S1078,Laki-laki,18,TBSM,75.2,97.4,<2 Juta,Tinggi,Tinggi,Kerja,Jauh,Ya
+S1079,Perempuan,19,TBSM,85.2,81.6,<2 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S1080,Laki-laki,18,AKL,86.3,91.9,4-6 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S1081,Laki-laki,18,TKJ,74.6,100.0,<2 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S1082,Perempuan,18,BDP,81.1,90.5,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Sedang,Tidak
+S1083,Perempuan,18,BDP,89.2,83.2,4-6 Juta,Sedang,Tinggi,Wirausaha,Sedang,Tidak
+S1084,Perempuan,18,AKL,96.0,92.1,4-6 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S1085,Perempuan,18,BDP,85.1,85.5,<2 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S1086,Perempuan,18,BDP,78.4,78.5,4-6 Juta,Tinggi,Sedang,Wirausaha,Dekat,Tidak
+S1087,Perempuan,19,BDP,77.5,94.3,4-6 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S1088,Perempuan,18,BDP,83.3,97.4,2-4 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S1089,Laki-laki,18,RPL,76.9,86.7,4-6 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Ya
+S1090,Laki-laki,18,AKL,79.8,86.2,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S1091,Laki-laki,19,AKL,68.0,81.8,2-4 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S1092,Perempuan,18,RPL,90.3,87.9,2-4 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S1093,Laki-laki,18,TBSM,67.2,84.8,4-6 Juta,Tinggi,Rendah,Kerja,Sedang,Tidak
+S1094,Laki-laki,18,AKL,73.9,81.4,>6 Juta,Tinggi,Sedang,Wirausaha,Dekat,Ya
+S1095,Perempuan,18,RPL,78.9,100.0,2-4 Juta,Rendah,Rendah,Kerja,Jauh,Tidak
+S1096,Laki-laki,17,BDP,96.9,92.5,4-6 Juta,Sedang,Rendah,Kuliah,Jauh,Ya
+S1097,Laki-laki,18,BDP,74.0,93.3,4-6 Juta,Tinggi,Rendah,Kuliah,Sedang,Ya
+S1098,Perempuan,17,BDP,71.7,95.6,4-6 Juta,Sedang,Sedang,Belum Menentukan,Jauh,Ya
+S1099,Perempuan,17,TKJ,72.8,94.8,>6 Juta,Rendah,Sedang,Kuliah,Dekat,Tidak
+S1100,Laki-laki,18,TBSM,93.8,85.9,<2 Juta,Tinggi,Sedang,Belum Menentukan,Jauh,Ya
+S1101,Laki-laki,19,TKJ,55.0,91.0,<2 Juta,Rendah,Sedang,Belum Menentukan,Dekat,Tidak
+S1102,Laki-laki,18,AKL,68.5,87.0,2-4 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S1103,Perempuan,18,RPL,98.0,92.3,2-4 Juta,Tinggi,Rendah,Wirausaha,Dekat,Ya
+S1104,Perempuan,18,AKL,83.6,91.6,2-4 Juta,Sedang,Rendah,Kerja,Jauh,Tidak
+S1105,Laki-laki,18,BDP,67.5,86.1,4-6 Juta,Sedang,Sedang,Belum Menentukan,Dekat,Tidak
+S1106,Perempuan,18,AKL,77.6,79.0,>6 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S1107,Laki-laki,18,AKL,78.6,90.1,2-4 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S1108,Laki-laki,18,BDP,86.0,87.5,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S1109,Perempuan,18,BDP,95.5,74.8,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Ya
+S1110,Laki-laki,19,TKJ,81.7,92.8,2-4 Juta,Sedang,Rendah,Belum Menentukan,Sedang,Tidak
+S1111,Laki-laki,19,TBSM,72.9,96.2,<2 Juta,Rendah,Sedang,Wirausaha,Sedang,Ya
+S1112,Laki-laki,17,BDP,85.5,100.0,2-4 Juta,Sedang,Rendah,Kerja,Jauh,Ya
+S1113,Perempuan,18,TBSM,71.4,86.1,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S1114,Perempuan,18,TBSM,68.2,85.0,4-6 Juta,Rendah,Sedang,Kerja,Jauh,Tidak
+S1115,Perempuan,18,TBSM,61.3,80.7,2-4 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S1116,Laki-laki,18,BDP,63.1,90.6,2-4 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S1117,Laki-laki,18,AKL,69.5,90.5,<2 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S1118,Perempuan,18,RPL,66.8,82.9,<2 Juta,Tinggi,Rendah,Belum Menentukan,Dekat,Tidak
+S1119,Laki-laki,18,AKL,81.0,87.7,>6 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S1120,Perempuan,19,BDP,66.6,74.2,>6 Juta,Sedang,Rendah,Wirausaha,Dekat,Tidak
+S1121,Perempuan,17,AKL,55.0,95.9,2-4 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S1122,Laki-laki,17,TBSM,68.1,83.2,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S1123,Perempuan,18,RPL,73.5,88.7,2-4 Juta,Sedang,Rendah,Kuliah,Dekat,Tidak
+S1124,Laki-laki,18,TKJ,72.2,78.3,4-6 Juta,Rendah,Sedang,Kerja,Sedang,Tidak
+S1125,Laki-laki,18,AKL,92.4,84.6,2-4 Juta,Sedang,Tinggi,Kerja,Dekat,Ya
+S1126,Perempuan,19,TKJ,72.2,86.9,<2 Juta,Rendah,Tinggi,Belum Menentukan,Dekat,Tidak
+S1127,Laki-laki,18,RPL,86.4,88.9,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Sedang,Ya
+S1128,Perempuan,18,RPL,77.8,92.6,<2 Juta,Tinggi,Sedang,Wirausaha,Dekat,Ya
+S1129,Perempuan,18,BDP,77.6,99.8,2-4 Juta,Sedang,Sedang,Kerja,Dekat,Tidak
+S1130,Perempuan,18,AKL,70.1,94.5,<2 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S1131,Perempuan,18,RPL,77.4,96.2,2-4 Juta,Sedang,Rendah,Kerja,Sedang,Tidak
+S1132,Laki-laki,18,RPL,70.7,99.8,2-4 Juta,Sedang,Tinggi,Belum Menentukan,Jauh,Tidak
+S1133,Laki-laki,19,AKL,79.6,93.3,<2 Juta,Sedang,Rendah,Belum Menentukan,Dekat,Tidak
+S1134,Perempuan,18,RPL,75.8,88.7,2-4 Juta,Sedang,Tinggi,Kuliah,Jauh,Tidak
+S1135,Perempuan,18,BDP,69.0,96.6,2-4 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Tidak
+S1136,Laki-laki,18,BDP,87.4,97.0,4-6 Juta,Rendah,Sedang,Kerja,Dekat,Tidak
+S1137,Laki-laki,19,RPL,82.1,93.9,>6 Juta,Sedang,Sedang,Kuliah,Jauh,Tidak
+S1138,Laki-laki,18,AKL,73.7,78.1,<2 Juta,Sedang,Rendah,Kerja,Dekat,Tidak
+S1139,Laki-laki,18,RPL,79.4,82.7,4-6 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S1140,Perempuan,17,TKJ,77.2,86.9,4-6 Juta,Tinggi,Tinggi,Belum Menentukan,Jauh,Ya
+S1141,Laki-laki,18,TBSM,69.8,94.8,4-6 Juta,Tinggi,Sedang,Belum Menentukan,Sedang,Ya
+S1142,Perempuan,17,AKL,78.7,88.8,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1143,Perempuan,18,TBSM,72.1,97.5,2-4 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S1144,Perempuan,18,RPL,69.0,98.9,<2 Juta,Sedang,Sedang,Kuliah,Dekat,Tidak
+S1145,Laki-laki,18,TKJ,62.6,98.0,>6 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S1146,Laki-laki,17,AKL,74.6,98.0,2-4 Juta,Tinggi,Rendah,Kuliah,Dekat,Tidak
+S1147,Perempuan,19,AKL,83.4,81.2,2-4 Juta,Tinggi,Tinggi,Kuliah,Dekat,Tidak
+S1148,Perempuan,19,TBSM,71.4,92.6,2-4 Juta,Rendah,Sedang,Kerja,Dekat,Ya
+S1149,Laki-laki,18,RPL,98.0,84.4,<2 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S1150,Perempuan,17,TBSM,86.4,76.6,<2 Juta,Tinggi,Tinggi,Kerja,Jauh,Tidak
+S1151,Laki-laki,17,TBSM,90.4,86.8,2-4 Juta,Sedang,Sedang,Belum Menentukan,Sedang,Tidak
+S1152,Perempuan,19,AKL,85.6,98.9,2-4 Juta,Sedang,Tinggi,Kerja,Jauh,Ya
+S1153,Laki-laki,18,TKJ,95.6,92.5,4-6 Juta,Sedang,Sedang,Kuliah,Dekat,Ya
+S1154,Laki-laki,18,AKL,70.5,100.0,2-4 Juta,Sedang,Sedang,Kerja,Jauh,Tidak
+S1155,Perempuan,18,TKJ,55.0,90.3,2-4 Juta,Sedang,Sedang,Wirausaha,Dekat,Tidak
+S1156,Laki-laki,18,BDP,73.8,100.0,4-6 Juta,Rendah,Rendah,Kerja,Sedang,Tidak
+S1157,Laki-laki,18,AKL,83.3,90.3,<2 Juta,Tinggi,Sedang,Kerja,Dekat,Tidak
+S1158,Laki-laki,18,TBSM,79.4,89.2,4-6 Juta,Tinggi,Rendah,Wirausaha,Jauh,Tidak
+S1159,Laki-laki,19,AKL,80.6,79.4,4-6 Juta,Tinggi,Rendah,Wirausaha,Jauh,Tidak
+S1160,Perempuan,18,AKL,90.5,97.3,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1161,Laki-laki,19,BDP,81.6,85.2,<2 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S1162,Perempuan,17,AKL,85.6,84.1,<2 Juta,Sedang,Rendah,Belum Menentukan,Dekat,Tidak
+S1163,Perempuan,18,TBSM,69.1,98.6,<2 Juta,Tinggi,Tinggi,Kerja,Sedang,Tidak
+S1164,Laki-laki,19,RPL,67.6,97.7,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Tidak
+S1165,Laki-laki,18,TBSM,93.3,97.5,<2 Juta,Tinggi,Tinggi,Kuliah,Dekat,Ya
+S1166,Perempuan,18,BDP,79.0,86.3,2-4 Juta,Sedang,Tinggi,Kerja,Sedang,Ya
+S1167,Perempuan,18,TBSM,72.1,88.6,<2 Juta,Sedang,Tinggi,Kuliah,Sedang,Tidak
+S1168,Perempuan,18,AKL,72.1,88.6,<2 Juta,Tinggi,Sedang,Wirausaha,Jauh,Tidak
+S1169,Perempuan,18,BDP,71.8,94.9,2-4 Juta,Sedang,Sedang,Kuliah,Sedang,Ya
+S1170,Laki-laki,18,TKJ,71.3,100.0,<2 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S1171,Laki-laki,18,BDP,65.8,91.8,>6 Juta,Sedang,Sedang,Kuliah,Sedang,Tidak
+S1172,Perempuan,18,RPL,63.7,100.0,2-4 Juta,Rendah,Tinggi,Wirausaha,Dekat,Tidak
+S1173,Laki-laki,18,TKJ,76.1,95.7,<2 Juta,Rendah,Tinggi,Kerja,Sedang,Tidak
+S1174,Perempuan,18,TKJ,72.4,87.2,<2 Juta,Tinggi,Sedang,Kerja,Jauh,Tidak
+S1175,Laki-laki,18,TKJ,88.5,95.2,2-4 Juta,Sedang,Sedang,Wirausaha,Dekat,Tidak
+S1176,Perempuan,18,TKJ,80.8,100.0,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Tidak
+S1177,Laki-laki,19,BDP,80.5,100.0,4-6 Juta,Tinggi,Rendah,Kerja,Jauh,Tidak
+S1178,Laki-laki,18,TKJ,70.9,97.9,2-4 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1179,Laki-laki,18,BDP,76.9,89.2,2-4 Juta,Tinggi,Tinggi,Wirausaha,Sedang,Ya
+S1180,Laki-laki,18,RPL,81.4,87.4,2-4 Juta,Tinggi,Sedang,Kerja,Sedang,Ya
+S1181,Perempuan,19,BDP,84.8,93.3,4-6 Juta,Rendah,Sedang,Wirausaha,Sedang,Ya
+S1182,Laki-laki,18,BDP,77.1,100.0,2-4 Juta,Tinggi,Tinggi,Wirausaha,Dekat,Ya
+S1183,Laki-laki,18,TKJ,88.3,92.3,<2 Juta,Sedang,Rendah,Kuliah,Jauh,Tidak
+S1184,Laki-laki,17,BDP,78.1,92.4,4-6 Juta,Sedang,Tinggi,Kerja,Jauh,Tidak
+S1185,Laki-laki,17,TBSM,85.5,89.4,4-6 Juta,Sedang,Rendah,Belum Menentukan,Dekat,Ya
+S1186,Perempuan,18,BDP,73.3,86.5,2-4 Juta,Tinggi,Tinggi,Kerja,Dekat,Tidak
+S1187,Laki-laki,19,TKJ,60.8,87.8,>6 Juta,Rendah,Sedang,Belum Menentukan,Sedang,Ya
+S1188,Perempuan,17,AKL,80.5,90.0,4-6 Juta,Sedang,Sedang,Wirausaha,Sedang,Tidak
+S1189,Laki-laki,18,BDP,84.9,100.0,<2 Juta,Sedang,Sedang,Kerja,Sedang,Tidak
+S1190,Perempuan,17,TKJ,83.5,87.2,4-6 Juta,Rendah,Sedang,Wirausaha,Sedang,Tidak
+S1191,Laki-laki,18,BDP,82.0,89.4,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Tidak
+S1192,Laki-laki,18,TKJ,74.7,82.5,2-4 Juta,Tinggi,Tinggi,Kuliah,Sedang,Ya
+S1193,Perempuan,18,BDP,70.3,94.4,2-4 Juta,Rendah,Tinggi,Kerja,Dekat,Tidak
+S1194,Perempuan,17,RPL,83.2,99.3,4-6 Juta,Rendah,Rendah,Kuliah,Dekat,Tidak
+S1195,Perempuan,18,RPL,82.1,100.0,2-4 Juta,Tinggi,Sedang,Wirausaha,Sedang,Tidak
+S1196,Laki-laki,19,TBSM,72.7,90.5,2-4 Juta,Rendah,Tinggi,Belum Menentukan,Jauh,Tidak
+S1197,Laki-laki,18,TBSM,88.5,93.3,<2 Juta,Rendah,Tinggi,Kerja,Sedang,Tidak
+S1198,Perempuan,18,TBSM,69.6,87.8,2-4 Juta,Tinggi,Sedang,Kuliah,Sedang,Ya
+S1199,Laki-laki,18,TBSM,72.5,93.0,>6 Juta,Tinggi,Rendah,Wirausaha,Jauh,Tidak
+S1200,Perempuan,18,TKJ,93.5,91.4,4-6 Juta,Sedang,Tinggi,Kuliah,Sedang,Ya
