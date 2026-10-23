@@ -13,7 +13,7 @@ from sklearn.metrics import (
 )
 
 # =========================================================
-# 1. DATA & LOADING (Sesuai Catatan Tugas Data Mining)
+# 1. DATA & LOADING (Tugas Data Mining)
 # =========================================================
 # Referensi Metode Loading Data di Pandas (Pandas.pydata.org):
 # - pd.read_csv('file.csv')
@@ -33,7 +33,7 @@ print("=" * 60)
 print("Jumlah data awal :", len(df))
 print("Jumlah kolom     :", len(df.columns))
 
-# Pengecekan Syarat Minimal 1000 Data (Tanpa Emoji Bebas Unicode Error)
+# Pengecekan Syarat Minimal 1000 Data 
 if len(df) >= 1000:
     print(f"[OK] Syarat Dataset: Memenuhi ketentuan (Jumlah data = {len(df)} >= 1000)")
 else:
@@ -44,7 +44,7 @@ print(df.head())
 
 
 # =========================================================
-# 2. EKSPLORASI DATA (Sesuai Catatan Tugas Data Mining)
+# 2. EKSPLORASI DATA (Catatan Tugas Data Mining)
 # =========================================================
 print("\n" + "=" * 60)
 print("2. EKSPLORASI DATA")
