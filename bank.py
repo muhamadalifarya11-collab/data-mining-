@@ -13,47 +13,81 @@ from sklearn.metrics import (
 )
 
 # =========================================================
-# 1. MEMBACA DATASET
+# 1. DATA & LOADING (Sesuai Catatan Tugas Data Mining)
 # =========================================================
-# Pastikan pemisah kolom sesuai dengan file Anda (biasanya koma ',' atau titik koma ';')
-df = pd.read_csv("bank-full.csv", sep=";")
+# Referensi Metode Loading Data di Pandas (Pandas.pydata.org):
+# - pd.read_csv('file.csv')
+# - pd.read_excel('file.xlsx')
+# - pd.read_json('file.json')
+# - pd.read_html('file.html')
+# - pd.read_xml('file.xml')
+# - pd.read_sql('query', connection)
+
+file_path = "bank-full.csv"
+df = pd.read_csv(file_path, sep=";")
 
 print("=" * 60)
-print("ANALISIS DATA KAMPANYE DEPOSITO BANK")
+print("1. DATA & LOADING (KAMPANYE DEPOSITO BANK)")
 print("=" * 60)
 
 print("Jumlah data awal :", len(df))
 print("Jumlah kolom     :", len(df.columns))
+
+# Pengecekan Syarat Minimal 1000 Data (Tanpa Emoji Bebas Unicode Error)
+if len(df) >= 1000:
+    print(f"[OK] Syarat Dataset: Memenuhi ketentuan (Jumlah data = {len(df)} >= 1000)")
+else:
+    print(f"[INFO] Syarat Dataset: Kurang dari 1000 data (Jumlah data = {len(df)})")
 
 print("\n5 Data Pertama:")
 print(df.head())
 
 
 # =========================================================
-# 2. CEK DATA AWAL
+# 2. EKSPLORASI DATA (Sesuai Catatan Tugas Data Mining)
 # =========================================================
-
 print("\n" + "=" * 60)
-print("CEK DATA KOSONG (SEBELUM CLEANING)")
+print("2. EKSPLORASI DATA")
 print("=" * 60)
 
-print(df.isnull().sum())
+# Poin 1: Pembagian Jenis Data (Kategorikal & Numerikal)
+kolom_numerik = df.select_dtypes(include=['int64', 'float64']).columns.tolist()
+kolom_kategori = df.select_dtypes(include=['object', 'category']).columns.tolist()
+
+print("\n[Poin 1] Pembagian Jenis Data:")
+print(f"• Kolom Numerikal ({len(kolom_numerik)})   :", kolom_numerik)
+print(f"• Kolom Kategorikal ({len(kolom_kategori)}) :", kolom_kategori)
+
+# Poin 2: Penjelasan Tipe Data di Python / Pandas
+print("\n[Poin 2] Penjelasan Tipe Data di Pandas:")
+print("• Data Kategorikal  : Menggunakan tipe 'object' atau 'category' (bukan float/void).")
+print("• Data Numerikal    : Menggunakan tipe 'int64' (integer) atau 'float64' (desimal).")
+
+# Poin 3: Memeriksa Jumlah Duplicate & Null pada Dataset
+jumlah_duplikat = df.duplicated().sum()
+jumlah_null = df.isnull().sum()
+
+print("\n[Poin 3] Cek Duplikat & Data Kosong (Null):")
+print(f"• Jumlah Data Duplikat : {jumlah_duplikat} baris")
+print("• Jumlah Data Null per Kolom (Sebelum Cleaning):")
+print(jumlah_null)
 
 
 # =========================================================
-# 2.5. PROSES DATA CLEANING (TAMBAHAN)
+# 2.5. PROSES DATA CLEANING
 # =========================================================
-
 print("\n" + "=" * 60)
 print("PROSES DATA CLEANING")
 print("=" * 60)
 
-# 1. Menghapus data duplikat (jika ada)
-jumlah_duplikat = df.duplicated().sum()
-print(f"Ditemukan {jumlah_duplikat} baris data duplikat. Menghapus duplikat...")
-df = df.drop_duplicates()
+# 1. Menghapus data duplikat jika ada
+if jumlah_duplikat > 0:
+    print(f"Ditemukan {jumlah_duplikat} baris data duplikat. Menghapus duplikat...")
+    df = df.drop_duplicates()
+else:
+    print("Tidak ditemukan data duplikat.")
 
-# 2. Menangani nilai "unknown" yang sebenarnya adalah missing values
+# 2. Menangani nilai 'unknown' sebagai missing values (NaN)
 print("Mengubah nilai 'unknown' menjadi NaN (Kosong)...")
 df.replace("unknown", np.nan, inplace=True)
 
@@ -67,13 +101,16 @@ df = df.dropna()
 
 print(f"Jumlah data setelah proses cleaning selesai: {len(df)}")
 
+# Simpan data bersih ke file CSV baru (Opsional)
+df.to_csv("bank_cleaned.csv", index=False, sep=";")
+print("Data bersih berhasil disimpan ke 'bank_cleaned.csv'")
+
 
 # =========================================================
 # 3. ANALISIS TARGET (Apakah nasabah membuka deposito?)
 # =========================================================
-
 print("\n" + "=" * 60)
-print("DISTRIBUSI TARGET (Buka Deposito / y)")
+print("3. ANALISIS TARGET (Buka Deposito / y)")
 print("=" * 60)
 
 print(df["y"].value_counts())
@@ -90,7 +127,6 @@ print(
 # =========================================================
 # 4. GRAFIK STATUS TARGET
 # =========================================================
-
 plt.figure(figsize=(7, 5))
 
 df["y"].value_counts().plot(
@@ -110,7 +146,6 @@ plt.show()
 # =========================================================
 # 5. GRAFIK DISTRIBUSI UMUR NASABAH
 # =========================================================
-
 plt.figure(figsize=(8, 5))
 
 plt.hist(
@@ -131,7 +166,6 @@ plt.show()
 # =========================================================
 # 6. ANALISIS BERDASARKAN PEKERJAAN
 # =========================================================
-
 pekerjaan = pd.crosstab(
     df["job"],
     df["y"]
@@ -159,36 +193,28 @@ plt.show()
 
 
 # =========================================================
-# 7. PREPROCESSING
+# 7. PREPROCESSING & ENCODING
 # =========================================================
-
-# Kita copy data yang SUDAH BERSIH
 data = df.copy()
 
-
-# =========================================================
-# 8. ENCODING DATA KATEGORI
-# =========================================================
-
 # Mengambil semua kolom yang bertipe teks/kategori (object) selain target 'y'
-kolom_kategori = data.select_dtypes(include=['object']).columns.tolist()
-if 'y' in kolom_kategori:
-    kolom_kategori.remove('y')
+kolom_kategori_proses = data.select_dtypes(include=['object', 'category']).columns.tolist()
+if 'y' in kolom_kategori_proses:
+    kolom_kategori_proses.remove('y')
 
 encoder = LabelEncoder()
 
-for kolom in kolom_kategori:
-    data[kolom] = encoder.fit_transform(data[kolom])
+for kolom in kolom_kategori_proses:
+    data[kolom] = encoder.fit_transform(data[kolom].astype(str))
 
 # Encoding target 'y'
 target_encoder = LabelEncoder()
-data["y"] = target_encoder.fit_transform(data["y"])
+data["y"] = target_encoder.fit_transform(data["y"].astype(str))
 
 
 # =========================================================
-# 9. MEMISAHKAN FITUR DAN TARGET
+# 8. MEMISAHKAN FITUR DAN TARGET
 # =========================================================
-
 X = data.drop(columns=["y"])
 y = data["y"]
 
@@ -200,9 +226,8 @@ print(X.columns.tolist())
 
 
 # =========================================================
-# 10. TRAINING DAN TESTING
+# 9. TRAINING DAN TESTING
 # =========================================================
-
 X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
@@ -216,9 +241,8 @@ print("Jumlah data testing  :", len(X_test))
 
 
 # =========================================================
-# 11. DECISION TREE
+# 10. DECISION TREE
 # =========================================================
-
 decision_tree = DecisionTreeClassifier(
     max_depth=5,
     random_state=42
@@ -238,9 +262,8 @@ print(classification_report(y_test, pred_tree))
 
 
 # =========================================================
-# 12. CONFUSION MATRIX DECISION TREE
+# 11. CONFUSION MATRIX DECISION TREE
 # =========================================================
-
 cm_tree = confusion_matrix(y_test, pred_tree)
 
 plt.figure(figsize=(6, 5))
@@ -263,9 +286,8 @@ plt.show()
 
 
 # =========================================================
-# 13. RANDOM FOREST
+# 12. RANDOM FOREST
 # =========================================================
-
 random_forest = RandomForestClassifier(
     n_estimators=100,
     random_state=42
@@ -285,9 +307,8 @@ print(classification_report(y_test, pred_forest))
 
 
 # =========================================================
-# 14. CONFUSION MATRIX RANDOM FOREST
+# 13. CONFUSION MATRIX RANDOM FOREST
 # =========================================================
-
 cm_forest = confusion_matrix(y_test, pred_forest)
 
 plt.figure(figsize=(6, 5))
@@ -310,9 +331,8 @@ plt.show()
 
 
 # =========================================================
-# 15. PERBANDINGAN AKURASI
+# 14. PERBANDINGAN AKURASI
 # =========================================================
-
 model_names = ["Decision Tree", "Random Forest"]
 accuracies = [accuracy_tree, accuracy_forest]
 
@@ -335,9 +355,8 @@ plt.show()
 
 
 # =========================================================
-# 16. FEATURE IMPORTANCE
+# 15. FEATURE IMPORTANCE
 # =========================================================
-
 importance = pd.DataFrame({
     "Fitur": X.columns,
     "Importance": random_forest.feature_importances_
